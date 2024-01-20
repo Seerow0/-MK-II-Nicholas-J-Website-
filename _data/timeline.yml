@@ -1,0 +1,42 @@
+
+#example
+#- title:
+  #from: 
+  #to:
+  #description: 
+ 
+- title: Lorem ipsum dolor
+  from: July 2023
+  to:
+  description: Lorem ipsum dolor
+  
+- title: Lorem ipsum dolor
+  from: Nov 2021
+  to: May 2023
+  description: Lorem ipsum dolor
+
+- title: Lorem ipsum dolor
+  from: Aug 2021
+  to: May 2023
+  description: Lorem ipsum dolor
+  
+- title: Lorem ipsum dolor
+  from: Oct 2020
+  to: July 2021
+  description: Lorem ipsum dolor
+
+- title: Lorem ipsum dolor
+  from: May 2018
+  to: July 2018
+  description: Lorem ipsum dolor
+
+- title: Lorem ipsum dolor
+  from: Aug 2015
+  to: Sep 2020
+  description: Lorem ipsum dolor
+  
+#example
+#- title:
+  #from: 
+  #to:
+  #description: 
