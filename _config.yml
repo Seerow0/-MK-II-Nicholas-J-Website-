@@ -3,7 +3,7 @@ title               : Nicholas Jonathan
 description         : >-                               # >- means to ignore newlines until "url:"
                       "Work In Progress. Go watch some doctor who you nerd. Jk I actually love doctor who."
 
-baseurl             : "/web2"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "/testing"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : Seerow0/Seerow0.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 #repository          :    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 # remote_theme        : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
