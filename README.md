@@ -14,3 +14,5 @@ today i learned, you drag and drop the media/image files you want on to the scrp
 something is wrong, invisble buttons check next time
 
 to change the github button link, use documentation/github.md for refernce footer.html contains the portfolyou theme outline on the right side/commnent it out or reformat it into another link.
+#To use gifs, get the raw link by copying the image address raw link on the image and pasting it in browser, then copying the link you get on landing page. Should look like above
+#see code
