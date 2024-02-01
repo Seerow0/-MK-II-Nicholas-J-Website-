@@ -7,3 +7,5 @@ permalink: /pdf/
 ---
 
 <iframe src="/pdf/sample-resume.pdf" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
+<iframe src="[sample-resume-1.pdf](https://github.com/Seerow0/testing/files/14121404/sample-resume-1.pdf)
+" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
