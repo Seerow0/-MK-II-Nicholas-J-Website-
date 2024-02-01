@@ -25,7 +25,6 @@ nav_exclude:                                            # The following paths ar
   - documentation/elements.html
   #- pages/blog.html
   - documentation/04-adding-content/
-  - documentation
 ### Author Info ###
 author:
   name              : Nicholas Jonathan
