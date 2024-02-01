@@ -3,6 +3,8 @@ test in progress/working off a forked site
 https://github.com/vishalgattani/vishalgattani.github.io
 https://seerow0.github.io/web2/
 
+25mb limit for videos 
+
 trying to figure out videos in posts
 today i learned, you drag and drop the media/image files you want on to the scrpt to put it in the page du dum dum
 
