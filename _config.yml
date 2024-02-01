@@ -23,8 +23,8 @@ nav_exclude:                                            # The following paths ar
   - documentation/partials/**                           # For Documentation Only
   - documentation/docs.md
   - documentation/elements.html
+  - documentation/04-adding-content
   #- pages/blog.html
-  - documentation/04-adding-content/**
 ### Author Info ###
 author:
   name              : Nicholas Jonathan
