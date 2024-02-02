@@ -6,6 +6,7 @@ image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/dw1.gif
 description: Conttdkyjy.
 ---
 
+<!-- to embed a video, first get the embed link from youtube and follow the formoat below, also edit this later to provide an exampple you lazybutt-->
 * TOC
 {:toc}
 
