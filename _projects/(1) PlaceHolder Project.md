@@ -26,28 +26,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-**consectetur adipiscing elit**
+---
+
+**sgtsd**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MoJH7ynzV3I?si=Wz4onroNHGYSVXB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-
-**consectetur adipiscing elit**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MoJH7ynzV3I?si=Wz4onroNHGYSVXB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
-**consectetur adipiscing elit**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MoJH7ynzV3I?si=Wz4onroNHGYSVXB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
-**consectetur adipiscing elit**
-<iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/BEpcV4U-CsI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-**consectetur adipiscing elit**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MoJH7ynzV3I?si=Wz4onroNHGYSVXB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
