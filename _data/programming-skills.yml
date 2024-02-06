@@ -1,10 +1,10 @@
 - name: c#
   percentage: 80
-  color: success 
+  color: primary 
   
 - name: Html
   percentage: 85
-  color: success 
+  color: secondary 
 
 - name: Python
   percentage: 70
