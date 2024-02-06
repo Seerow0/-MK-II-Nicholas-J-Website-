@@ -3,10 +3,10 @@ layout: page
 title: Resume
 weight: 6
 permalink: /pdf/
-<!--#external_url: https://github.com/Seerow0-->!
+<!--#external_url: https://github.com/Seerow0 (shell used to be there but I added console to make all the text blue)-->!
 ---
 # [Resume](https://github.com/Seerow0/testing/blob/main/pdf/sample-resume.pdf)
-```shell
+```console
  Nicholas Jonathan
 - Email: nicholasjv14@gmail.com
 - Phone: 646-940-5463
@@ -14,7 +14,8 @@ permalink: /pdf/
 - Website: [https://nicholasjonathan.com](https://nicholasjonathan.com)
 
 PROFESSIONAL SUMMARY
-Tech-savvy professional with a strong background in technical support, data management, and project coordination. Known for delivering results and driving operational excellence. Adept at troubleshooting and software solutions.
+Tech-savvy professional with a strong background in technical support, data management, and project coordination.
+Known for delivering results and driving operational excellence. Adept at troubleshooting and software solutions.
 
 PROFESSIONAL EXPERIENCE
 
