@@ -4,13 +4,13 @@
 
 - name: Blah2
   percentage: 75
-  color: success
+  color: danger
 
 - name: Blah3
   percentage: 65
-  color: success
+  color: warning
 
 - name: Wait4it...Blah4
   percentage: 75
-  color: success
+  color: info
  
