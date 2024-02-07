@@ -2,19 +2,20 @@
 We will be starting with the Portfolyou theme and breaking it down into a personal website(because to do so from scratch would require every free second of my free time which I use for fun activities and sleep). Along the way, I will add any helpful tips and references here to access it for my delightful self in the future. [Forked Theme](https://youssefraafatnasry.github.io/portfolYOU/docs/)
 
 # First and foremost, 
-the config.yml file is important for melding your website together. An important note is for baseurl:, you are going to want to add the name of the repository like the exaxmple shown below. Otherwise, the website will not work.
+the config.yml file is important for melding your website together. An important note is for baseurl:, you are going to want to add the name of the repository like the example shown below. Otherwise, the website will not work. In this case, my repository is named "testing". 
 
 baseurl: "/testing" 
 
 There are other customizable features on the config such as the description which changes the text that appears on the landing page below the image. There is also the matter of adding an image. In order to add an image, a simple way would be to add a folder in your repository for images. In my case I have two seperate folders, one for images and one for gifs. Then when you navigate to the folder and open the image in a new tab, you will obtain the raw link which will look something like this.  https://raw.githubusercontent.com/Seerow0/testing/main/gifs/nic.gif
 You will add this link to the config.yml where it says images and the image should appear on the website.
 
-You should be able to drag and drop as well which I find is better for video content since it is easier to host the images in your repository folder. 
+You should be able to drag and drop as well which I find is better for video content and it is more convenient to host the images in your repository folder. 
 
 # Adding Images to MD files (Markdown)
-! [Alt text] (URL) --I added a space in between, so it would show but basically that is the correct format but without the spaces in between. Ex Below
+! [Alt text] (URL) --I added a space in between, so you would remove the spaces. Ex gif below
 
 ![Example](https://github.com/Seerow0/testing/blob/main/gifs/nic.gif)
+
 
 
 
