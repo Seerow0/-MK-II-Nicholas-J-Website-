@@ -2,6 +2,7 @@
 name: The cat vs dog debacle
 tools: [Cats, Dogs, Meme]
 image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/cvd.gif
+
 description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
 ---
 
