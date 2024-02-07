@@ -7,9 +7,7 @@ permalink: /pdf/
 ---
 # [Resume](https://github.com/Seerow0/testing/blob/main/pdf/sample-resume.pdf)
 <!--```console -->
-<code style="color : cyan">text</code>
-$${\color{lightblue}Light \space Blue}$$
- Nicholas Jonathan
+# $\color{#4b02c9}{Nicholas}$ $\color{#4b02c9}{Jonathan}$
 - Email: nicholasjv14@gmail.com
 - Phone: 646-940-5463
 - Location: Queens, New York
