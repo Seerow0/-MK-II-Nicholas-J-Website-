@@ -81,7 +81,7 @@ analytics:
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
 buymeacoffee: 
-  enabled: true
+  enabled: false
   username: nicholasjv14
   color: "#8400ff"
   #message: "These aren't the droids you're looking for." # Message to be displayed aside from the button for a few seconds.
