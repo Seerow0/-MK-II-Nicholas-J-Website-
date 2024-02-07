@@ -2,7 +2,7 @@ https://seerow0.github.io/W2/ https://youssefraafatnasry.github.io/portfolYOU/do
 check the other forks to see how they work good reference: https://github.com/bernhardrieder/bernhardrieder.github.io
 md= markdown
 change text color --- https://github.com/orgs/community/discussions/31570  <code style="color : blue">text</code>
-$${\color{lightblue}Light \space Blue}$
+$${\color{lightblue}Light \space Blue}$$
 # testing
 create a new page following the pages folder fpormat
 test in progress/working off a forked site
