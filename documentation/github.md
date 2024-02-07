@@ -1,6 +1,6 @@
 ---
 layout: null
-title: <i class="fa fa book fa-2x fa-book"></i>
+title: <i class="fa fa book fa-1x fa-book"></i>
 weight: 7
 external_url: https://google.com
 ---
