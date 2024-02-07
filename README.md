@@ -1,8 +1,18 @@
-# Welcome to Nick's Githun_pages for dummies. 
-We will be starting with the Portfolyou theme and breaking it down into a personal website(because to do so from scratch would require every free second of my free time which I use for fun activities and sleep). Along the way, I will add any helpful tips and references here to access it for my delightful self in the future. [Forked Theme](https://youssefraafatnasry.github.io/portfolYOU/docs/)
+# Welcome to Nick's Github_pages for dummies.
+
+[Website](https://seerow0.github.io/testing/)
+
+We will be starting with the Portfolyou theme and breaking it down into a personal website(because to do so from scratch would require every free second of my free time which I use for fun activities and sleep). Along the way, I will add any helpful tips and references here to access it for my delightful self in the future. 
+
+[Forked Theme](https://youssefraafatnasry.github.io/portfolYOU/docs/)
+
+# Good references for comparing code to see what I can do like other people who forked the repository and made made creative changes.
+[V-Reference1](https://github.com/vishalgattani/vishalgattani.github.io)
+
+[B-Reference2]( https://github.com/bernhardrieder/bernhardrieder.github.io)
 
 # First and foremost, 
-the config.yml file is important for melding your website together. An important note is for baseurl:, you are going to want to add the name of the repository like the example shown below. Otherwise, the website will not work. In this case, my repository is named "testing". 
+the config.yml file is important for melding your website together. An important note is for baseurl:, you are going to want to add the name of the repository like the example shown below. Otherwise, the website will not work. In this case, my repository is named "testing". (for now)
 
 baseurl: "/testing" 
 
@@ -19,7 +29,7 @@ You should be able to drag and drop as well which I find is better for video con
 
 
 
-
+# Scavenge Section
 
 type in fa to locate the symbols to change on website, even the bottom with made with heart by on the bottom
 _theme.scss change the light mode and dark mode colors/symbols "@include themed(content, "🌙", "🌞");"
@@ -34,7 +44,7 @@ $${\color{lightblue}Light \space Blue}$$
 create a new page following the pages folder fpormat
 test in progress/working off a forked site
 https://github.com/vishalgattani/vishalgattani.github.io
-https://seerow0.github.io/web2/
+
 
 25mb limit for videos 
 
