@@ -1,3 +1,6 @@
+type in fa to locate the symbols to change on website, even the bottom with made with heart by on the bottom
+
+
 https://fontawesome.com/v4/icon/github
 https://seerow0.github.io/W2/ https://youssefraafatnasry.github.io/portfolYOU/docs/ 
 check the other forks to see how they work good reference: https://github.com/bernhardrieder/bernhardrieder.github.io
