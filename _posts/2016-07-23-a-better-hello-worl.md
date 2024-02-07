@@ -4,7 +4,7 @@ For Example: <video src="https://github.com/Seerow0/web2/assets/92154813/255269b
 title: test2
 tags: [hyd, test, video]
 style: fill
-color: primary
+color: secondary
 description: stuff ya know.
 ---
 
