@@ -1,6 +1,6 @@
 ---
 layout: null
-title: <i class="fa fa-firefox" aria-hidden="true"></i>
+title: <i class="fa fa book fa-2x"></i> fa-2x
 weight: 7
 external_url: https://google.com
 ---
