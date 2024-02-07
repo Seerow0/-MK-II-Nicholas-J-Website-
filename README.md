@@ -1,5 +1,5 @@
 type in fa to locate the symbols to change on website, even the bottom with made with heart by on the bottom
-_theme.scss change the light mode and dark mode colors
+_theme.scss change the light mode and dark mode colors/symbols
 
 https://fontawesome.com/v4/icon/github
 https://seerow0.github.io/W2/ https://youssefraafatnasry.github.io/portfolYOU/docs/ 
