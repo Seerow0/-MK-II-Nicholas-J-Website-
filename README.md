@@ -1,3 +1,15 @@
+# Welcome to Nick's Githun_pages for dummies. 
+We will be starting with the Portfolyou theme and breaking it down into a personal website(because to do so from scratch would require every free second of my free time which I use for fun activities and sleep). Along the way, I will add any helpful tips and references here to access it for my delightful self in the future. [Forked Theme](https://youssefraafatnasry.github.io/portfolYOU/docs/)
+
+First and foremost, 
+
+
+
+
+
+
+
+
 type in fa to locate the symbols to change on website, even the bottom with made with heart by on the bottom
 _theme.scss change the light mode and dark mode colors/symbols "@include themed(content, "🌙", "🌞");"
 include footer, change what shows at the bottom of the page
