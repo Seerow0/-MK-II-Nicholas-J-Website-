@@ -6,12 +6,13 @@ permalink: /pdf/
 <!--#external_url: https://github.com/Seerow0 (shell used to be there but I added console to make all the text blue)-->!
 ---
 # [Resume](https://github.com/Seerow0/testing/blob/main/pdf/sample-resume.pdf)
-```console
+<!--```console -->
+<code style="color : cyan">text</code>
  Nicholas Jonathan
 - Email: nicholasjv14@gmail.com
 - Phone: 646-940-5463
 - Location: Queens, New York
-- Website: [https://nicholasjonathan.com](https://nicholasjonathan.com)
+- Website: [Website](https://nicholasjonathan.com)
 
 PROFESSIONAL SUMMARY
 Tech-savvy professional with a strong background in technical support, data management, and project coordination.
@@ -62,5 +63,4 @@ EDUCATION
 SKILLS
 - Technical Skills: Excel, Microsoft Office, Photoshop, Unity3D, Jira, SQL, Data Entry, C#
 - Soft Skills: Problem-solving, Communication, Team Collaboration
-
 ```
