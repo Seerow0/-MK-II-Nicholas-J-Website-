@@ -1,6 +1,6 @@
 https://seerow0.github.io/W2/ https://youssefraafatnasry.github.io/portfolYOU/docs/ 
 check the other forks to see how they work good reference: https://github.com/bernhardrieder/bernhardrieder.github.io
-
+md= markdown
 # testing
 create a new page following the pages folder fpormat
 test in progress/working off a forked site
