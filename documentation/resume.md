@@ -8,6 +8,7 @@ permalink: /pdf/
 # [Resume](https://github.com/Seerow0/testing/blob/main/pdf/sample-resume.pdf)
 <!--```console -->
 <code style="color : cyan">text</code>
+$${\color{lightblue}Light \space Blue}$$
  Nicholas Jonathan
 - Email: nicholasjv14@gmail.com
 - Phone: 646-940-5463
