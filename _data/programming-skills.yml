@@ -6,7 +6,7 @@
   percentage: 85
   color: secondary 
 
-- name: Python
+- name: Manual Testing
   percentage: 70
   color: success 
 
