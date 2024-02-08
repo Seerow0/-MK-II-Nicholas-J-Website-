@@ -63,6 +63,20 @@ Example: `$${\color{lightblue}Light \space Blue}$$`
 
 $${\color{lightblue}Light \space Blue}$$
 
+# Removing theme watermark
+`footer.html` contains the portfolyou theme logo on the right that redirects you to the theme/comment it out or reformat it into another link if needed
+
+# Adding a logo for a page on the navbar instead of a name
+
+`documentation/github.md` I'll use this as an example since it already exists. I changed the existing github logo to a book icon for now. I was told it would make a good table of contents page to link to the other pages, good idea.
+
+You will replace the `fa fa` symbol with something from [this](https://fontawesome.com) website. 
+
+A good example is `<i class="fa fa book fa-1x fa-book"></i>` Bascally find these values on the site and replace them with the new provided fa fa text and you can modify the `1x` up to `4x`. 
+
+This site also provided you with logos for social media links. 
+
+
 # Scavenge Section
 
 type in fa to locate the symbols to change on website, even the bottom with made with heart by on the bottom
@@ -71,13 +85,10 @@ https://fontawesome.com/v4/icon/github
 
 
 
-to change the github button link, use documentation/github.md for refernce footer.html contains the portfolyou theme outline on the right side/commnent it out or reformat it into another link.
+to change the github button link, use documentation/github.md for reference...
 
 
 ** ** for bolding and `` for highlighting and combinging both gives you bolded highlight ` comes after the first ** and before the last **
-
-
-https://raw.githubusercontent.com/Seerow0/web2/main/gifs/dw1.gif?token=GHSAT0AAAAAACLUQVMODRPFCY7Y7HZBJGCYZNJ3U3A
 
 
 #To use gifs, get the raw link by copying the image address raw link on the image and pasting it in browser, then copying the link you get on landing page. Should look like above
