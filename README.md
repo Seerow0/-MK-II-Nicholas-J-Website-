@@ -75,18 +75,14 @@ You will replace the `fa fa` symbol with something from [this](https://fontaweso
 A good example is `<i class="fa fa book fa-1x fa-book"></i>` Bascally find these values on the site and replace them with the new provided fa fa text and you can modify the `1x` up to `4x`. 
 
 This site also provided you with logos for social media links. 
+You can type in fa to locate the scripts in which you need to change what symbol appears on the website. Previously, the bottom used to say <> with (heart emoj) but I changed that to The Nick Signal. Located in `_includes/footer.html`
+
+`footer.html` obviously enough displays information at the bottom of the page.
+
+
 
 
 # Scavenge Section
-
-type in fa to locate the symbols to change on website, even the bottom with made with heart by on the bottom
-include footer, change what shows at the bottom of the page
-https://fontawesome.com/v4/icon/github
-
-
-
-to change the github button link, use documentation/github.md for reference...
-
 
 ** ** for bolding and `` for highlighting and combinging both gives you bolded highlight ` comes after the first ** and before the last **
 
