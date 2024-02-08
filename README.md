@@ -1,4 +1,4 @@
-# Welcome to Nick's Github_pages for dummies.
+# Welcome to Nick's Github_pages for dummies. 😁
 
 [Website](https://seerow0.github.io/testing/)
 
