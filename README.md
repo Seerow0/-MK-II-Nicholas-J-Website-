@@ -79,14 +79,14 @@ You can type in fa to locate the scripts in which you need to change what symbol
 
 `footer.html` obviously enough displays information at the bottom of the page.
 
+# Hot Tips 
+
+1.) ** ** for bolding and `` for highlighting and combinging both gives you bolded highlight ` comes after the first ** and before the last **
+
+2.) To use gifs or images, get the raw link by copying the image address raw link on the image and pasting it in browser, then copying the link you get on landing page.
 
 
+# Scavenge Section 
 
-# Scavenge Section
-
-** ** for bolding and `` for highlighting and combinging both gives you bolded highlight ` comes after the first ** and before the last **
-
-
-#To use gifs, get the raw link by copying the image address raw link on the image and pasting it in browser, then copying the link you get on landing page. Should look like above
-
+`For information to be written later into the main read.md`
 
