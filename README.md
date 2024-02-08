@@ -41,7 +41,9 @@ Navigate to **`theme.scss`**
 Line: "@include themed(content, "🌙", "🌞");"
 Alternativley, you can search through the index on the top right and look for the current emoji featured on the website location. Honestly, if you spot the emojis, your in the right place unless your some mad lad with a knack for adding emojis all over your code, then you'd be looking for **`@include themed(content, "[Emoji]", "[Emoji]");`**
 
-
+# Video Content
+`25 mb` video limit
+To add videos to pages, drag and drop the video into the script. You also can format it to fit to a certain size with code but unfortunatley like my spelling, I can't recall. Will research later.
 
 
 # Scavenge Section
@@ -60,10 +62,6 @@ test in progress/working off a forked site
 https://github.com/vishalgattani/vishalgattani.github.io
 
 
-25mb limit for videos 
-trying to figure out videos in posts
-today i learned, you drag and drop the media/image files you want on to the scrpt to put it in the page du dum dum
-
 
 ![image](https://github.com/Seerow0/web2/assets/92154813/1b9572da-10a3-4cbf-8e61-b2b7caca2a9e)
 
@@ -77,6 +75,5 @@ https://raw.githubusercontent.com/Seerow0/web2/main/gifs/dw1.gif?token=GHSAT0AAA
 
 
 #To use gifs, get the raw link by copying the image address raw link on the image and pasting it in browser, then copying the link you get on landing page. Should look like above
-#see code
 
-<img width="380" alt="dw1" src="https://raw.githubusercontent.com/Seerow0/web2/main/gifs/dw1.gif?token=GHSAT0AAAAAACLUQVMODRPFCY7Y7HZBJGCYZNJ3U3A">
+
