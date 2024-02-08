@@ -45,6 +45,17 @@ Alternativley, you can search through the index on the top right and look for th
 `25 mb` video limit
 To add videos to pages, drag and drop the video into the script. You also can format it to fit to a certain size with code but unfortunatley like my spelling, I can't recall. Will research later.
 
+# Fill and Color For Projects and Posts
+You'll notice on the blog page where the posts are diffrenitiated by color(excuse my spelling nick ol chap) (no worries nick thoughts ol' chap)
+You could edit the color values using the image below. 
+![image](https://github.com/Seerow0/web2/assets/92154813/1b9572da-10a3-4cbf-8e61-b2b7caca2a9e)
+
+`style: fill`
+`color: primary`
+
+I am sure there are more ways to edit these values but unfortunatley I do not need more than what I already have provided right now. sad piano music plays
+
+
 
 # Scavenge Section
 
@@ -55,15 +66,7 @@ https://fontawesome.com/v4/icon/github
 
 change text color --- https://github.com/orgs/community/discussions/31570  <code style="color : blue">text</code>
 $${\color{lightblue}Light \space Blue}$$
-# testing
 
-create a new page following the pages folder fpormat
-test in progress/working off a forked site
-https://github.com/vishalgattani/vishalgattani.github.io
-
-
-
-![image](https://github.com/Seerow0/web2/assets/92154813/1b9572da-10a3-4cbf-8e61-b2b7caca2a9e)
 
 to change the github button link, use documentation/github.md for refernce footer.html contains the portfolyou theme outline on the right side/commnent it out or reformat it into another link.
 
