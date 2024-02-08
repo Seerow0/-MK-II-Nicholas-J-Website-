@@ -26,13 +26,23 @@ You should be able to drag and drop as well which I find is better for video con
 
 ![Example](https://github.com/Seerow0/testing/blob/main/gifs/nic.gif)
 
+# Changing the Logo that appears on the tab section of your website
+This file is located in the assets folder like so: assets/favicon.ico
+the favicon is a small feature but also a form of your websites identity. Whenever an individual bookmarks your website, the logo will the first thing they see, it should be familiar and easy to read. For example the youtube logo and the google logo are easy to recognize and click when looking among several bookmarked tabs. 
+To replace the logo, simply attatch a new file and delete the old "favicon.ico" 
+A good reference to obtain your own favlogo or even convert an existing graphic is to generate your own using [favicon](https://favicon.io/) or any other tool.
+1. Copy your new `favicon.ico` file into your own project with the same file path **`assets/favicon.ico`**.
 
+# Changing the emoji on the light mode and dark mode toggle button.
+
+Navigate to **theme.scss** 
+Line: "@include themed(content, "🌙", "🌞");"
+Alternativley, you can search through the index on the top right and look for the current emoji featured on the website location. Honestly, if you spot the emojis, your in the right place unless your some mad lad with a knack for adding emojis all over your code, then you'd be looking for **@include themed(content, "[Emoji]", "[Emoji]");**
 
 
 # Scavenge Section
 
 type in fa to locate the symbols to change on website, even the bottom with made with heart by on the bottom
-_theme.scss change the light mode and dark mode colors/symbols "@include themed(content, "🌙", "🌞");"
 include footer, change what shows at the bottom of the page
 https://fontawesome.com/v4/icon/github
 https://seerow0.github.io/W2/ https://youssefraafatnasry.github.io/portfolYOU/docs/ 
@@ -53,8 +63,6 @@ today i learned, you drag and drop the media/image files you want on to the scrp
 
 
 ![image](https://github.com/Seerow0/web2/assets/92154813/1b9572da-10a3-4cbf-8e61-b2b7caca2a9e)
-
-something is wrong, invisble buttons check next time
 
 to change the github button link, use documentation/github.md for refernce footer.html contains the portfolyou theme outline on the right side/commnent it out or reformat it into another link.
 
