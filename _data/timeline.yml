@@ -5,35 +5,36 @@
   #to:
   #description: 
  
-- title: Lorem ipsum dolor
-  from: July 2023
-  to:
-  description: Lorem ipsum dolor
+- title: Technology Assistant- NYPL Stavros Niarchos Foundation Library 
+  from: December 2022
+  to: Current
+  description: Responsible for supporting staff and patrons with computers, Internet, programs, and technological needs for a range of services.
+  Coordinate with the SNFL tech team to ensure patron and staff needs are met.
   
-- title: Lorem ipsum dolor
-  from: Nov 2021
-  to: May 2023
-  description: Lorem ipsum dolor
+- title: Expense Clerk-Swiss Post Solutions
+  from: July 2022
+  to: August 2022
+  description: Temp Job utilizing excel and concur to process expense reports.
 
-- title: Lorem ipsum dolor
-  from: Aug 2021
-  to: May 2023
-  description: Lorem ipsum dolor
+- title: Data Entry-Aston Carter
+  from: May 2022
+  to: June 2023
+  description: Client and legal document processing. Data entry in excel spreadsheets.
   
-- title: Lorem ipsum dolor
-  from: Oct 2020
-  to: July 2021
-  description: Lorem ipsum dolor
+- title: Independent Contractor-Upwork
+  from: May 2021
+  to: April 2022
+  description: Contracted jobs with clients ranging from creative projects to technical assistance
 
-- title: Lorem ipsum dolor
-  from: May 2018
-  to: July 2018
-  description: Lorem ipsum dolor
+- title: Community Engagement-EGD Collective
+  from: Dec 2020
+  to: May 2021
+  description: Setup and moderate event. Contact vendors and artists. 
 
-- title: Lorem ipsum dolor
+- title: Intern- Software Quality Assurance Engineer
   from: Aug 2015
   to: Sep 2020
-  description: Lorem ipsum dolor
+  description:Manual testing, team meetings through slack and data entry.
   
 #example
 #- title:
