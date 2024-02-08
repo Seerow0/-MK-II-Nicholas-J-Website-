@@ -1,4 +1,4 @@
-# Welcome to Nick's Github_pages for dummies. 😁
+# Welcome to Nick's Github_pages for dummies(well this dummy in particular). 😁
 
 [Website](https://seerow0.github.io/testing/)
 
@@ -55,7 +55,13 @@ You could edit the color values using the image below.
 
 I am sure there are more ways to edit these values but unfortunatley I do not need more than what I already have provided right now. sad piano music plays
 
+# Color text in markdown
+[Source](https://github.com/orgs/community/discussions/31570)
 
+`$${\color{text}colorvalue}$$` 
+Example: `$${\color{lightblue}Light \space Blue}$$`
+
+$${\color{lightblue}Light \space Blue}$$
 
 # Scavenge Section
 
@@ -63,9 +69,6 @@ type in fa to locate the symbols to change on website, even the bottom with made
 include footer, change what shows at the bottom of the page
 https://fontawesome.com/v4/icon/github
 
-
-change text color --- https://github.com/orgs/community/discussions/31570  <code style="color : blue">text</code>
-$${\color{lightblue}Light \space Blue}$$
 
 
 to change the github button link, use documentation/github.md for refernce footer.html contains the portfolyou theme outline on the right side/commnent it out or reformat it into another link.
