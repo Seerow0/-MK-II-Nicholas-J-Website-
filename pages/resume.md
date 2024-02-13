@@ -7,7 +7,8 @@ permalink: /resume/
 
 [Download](https://github.com/Seerow0/testing/files/14255759/NicholasJ.pdf)
 
-![Illustration](https://github.com/Seerow0/testing/assets/92154813/54e065b6-e35e-4ea7-bc36-afacec5ff687)
+![Illustrationdark](https://github.com/Seerow0/testing/assets/92154813/f93cd205-99a8-472c-a801-1d8f8360a57a)
 
 
-```
+
+
