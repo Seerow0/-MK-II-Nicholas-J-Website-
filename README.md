@@ -43,7 +43,9 @@ Alternativley, you can search through the index on the top right and look for th
 
 # Video Content
 `25 mb` video limit
-To add videos to pages, drag and drop the video into the script. You also can format it to fit to a certain size with code but unfortunatley like my spelling, I can't recall. Will research later.
+To add videos to pages, drag and drop the video into the script. You also can format it to fit to a certain size with code but unfortunatley like my spelling, I can't recall. Will research later
+To Add Videos, -- `<video src= "" -- drag and drop onto the file and add --"controls" style="max-width: 730px;"></video> at the end`--
+`For Example: <video src="https://github.com/Seerow0/web2/assets/92154813/255269b5-37ee-43cd-ace9-52f0a00b6b00" controls="controls" style="max-width: 730px;"></video>`
 
 # Fill and Color For Projects and Posts
 You'll notice on the blog page where the posts are diffrenitiated by color(excuse my spelling nick ol chap) (no worries nick thoughts ol' chap)
