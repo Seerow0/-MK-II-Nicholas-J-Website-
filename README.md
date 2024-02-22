@@ -92,10 +92,14 @@ You can type in fa to locate the scripts in which you need to change what symbol
 
 `For information to be written later into the main read.md`
 
-`{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}`
+`{% include elements/button.html link="websitelinkgoeshere" text="Button Text Goes Here" %}`
 
 -Creates a clickable linked button. See below image.
 
 ![image](https://github.com/Seerow0/testing/assets/92154813/0a8a5586-2223-4008-9087-502b530d7018)
+
+Example: 
+
+{% include elements/button.html link="https://github.com/Seerow0/testing/tree/main" text="Repository" %}
 
 
