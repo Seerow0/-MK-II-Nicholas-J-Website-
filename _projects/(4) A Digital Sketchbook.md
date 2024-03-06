@@ -6,12 +6,12 @@ description: Art Sketchbook
 ---
 
 # What is design?
+ To be completely honest, I am still exploring the definition of design. Design is an important fundamental contribution to a functioning society. We get our infrastructure, our signage, and so much more from design. I would say design is equivalent to the role of inventor in which they both inspire innovation. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat imperdiet sed euismod nisi porta lorem. In hac habitasse platea dictumst vestibulum rhoncus est. Dictum sit amet justo donec enim diam vulputate. Pellentesque sit amet porttitor eget dolor morbi non. Id porta nibh venenatis cras sed felis. Porttitor eget dolor morbi noLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat imperdiet sed euismod nisi porta lorem. In hac habitasse platea dictumst vestibulum rhoncus est. Dictum sit amet justo donec enim diam vulputate. Pellentesque sit amet porttitor eget dolor morbi non. Id porta nibh venenatis cras sed felis. Porttitor eget dolor morbi no
+**Sketchbook**
+I will post my work here, a mixture of the bad and the good and the mediocre.
 
-**Examples**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat imperdiet sed euismod nisi porta lorem. In hac habitasse platea dictumst vestibulum rhoncus est. Dictum sit amet justo donec enim diam vulputate. Pellentesque sit amet porttitor eget dolor morbi non. Id porta nibh venenatis cras sed felis. Porttitor eget dolor morbi no
 # (Videos)
 
 ---
