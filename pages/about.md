@@ -8,7 +8,7 @@ weight: 4
 # **About Me**
 
 <!-- Hi I am **{{ site.author.name }}** :wave:,<br> -->
-Hi, I am Nicholas! :wave:,<br> an aspiring professional in the realm of digital design and technology, bringing approximately 2 years of hands-on experience to the table. Consider me your proactive partner in navigating the dynamic world of technology and design, driven by a genuine eagerness to learn and contribute.
+Hi, I am Nicholas! :wave:,<br> an aspiring professional in the realm of digital design and technology, bringing approximately 2 years of hands-on experience to the table. Consider me your proactive partner in navigating the dynamic world of technology and design, driven by a genuine eagerness to learn and contribute to our common goal; implementing creative solutions to yield the best results from a constantly evolving platform.
 
 <!-- In my journey through the landscape of Digital Design and Technology, I've honed my skills as a problem solver, adept communicator, and a receptive team player. I specialize in seamlessly integrating tools such as Jira, Photoshop, Illustrator, Indesign, Manual Testing, and other tech tools into my workflow.
 
