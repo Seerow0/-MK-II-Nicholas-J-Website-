@@ -1,16 +1,16 @@
-- name: Blah
+- name: Photoshop
   percentage: 90
   color: success
 
-- name: Blah2
+- name: Unity 3D
   percentage: 75
   color: danger
 
-- name: Blah3
+- name: Premiere Pro
   percentage: 65
   color: warning
 
-- name: Wait4it...Blah4
+- name: Basic Excel/G-Sheets/Air Table
   percentage: 75
   color: info
  
