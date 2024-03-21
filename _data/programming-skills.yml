@@ -1,21 +1,21 @@
-- name: c#
-  percentage: 80
+- name: C#
+  percentage: 65
   color: primary 
   
 - name: Html
-  percentage: 85
+  percentage: 70
   color: secondary 
 
 - name: Manual Testing
-  percentage: 70
+  percentage: 85
   color: success 
 
 - name: SQL 
-  percentage: 75
+  percentage: 45
   color: success
 
 - name: Java 
-  percentage: 70
+  percentage: 50
   color: success 
 
 
