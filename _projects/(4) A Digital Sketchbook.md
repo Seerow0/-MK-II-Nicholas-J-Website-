@@ -1,7 +1,7 @@
 ---
 name: Sketchbook Project
 tools: [stuff.more stuff, extra stuff]
-image: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFyOGVhZjAzeHN1ajZkZjV6ZDNwMnRpbHg5dHA1aGl2emt0ZXU4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Fazad9Hs5xPAF6iQ/giphy.gif
+image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/sketch-sponge.gif
 description: Art Sketchbook
 ---
 
