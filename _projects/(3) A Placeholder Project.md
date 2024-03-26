@@ -1,9 +1,9 @@
 ---
-name: The cat vs dog debacle
-tools: [Cats, Dogs, Meme]
-image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/cvd.gif
+name: 3D Projects
+tools: [Video, Maya, Unity3D]
+image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/3d-gif.gif
 
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: Games, Videos and 3d Projects
 ---
 
 Source: [yamomhouse](google.com)
