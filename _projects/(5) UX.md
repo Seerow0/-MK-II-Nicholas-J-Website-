@@ -1,6 +1,6 @@
 ---
 name: Ux Projects
-tools: [Adobe XD. Figma, User Research, Wireframe]
+tools: [Adobe XD, Figma, User Research, Wireframe]
 image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/ux-gif.gif
 description: Art Sketchbook
 ---
