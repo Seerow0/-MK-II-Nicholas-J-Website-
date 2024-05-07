@@ -3,14 +3,10 @@ title: 3D Printing
 tags: [3D Model, FDM Printing, Technology]
 style: fill
 color: danger
-description: Sharing my printing process with myself really and anyone else slightly interested.
+description: If you don't want to read this rant about a passion I happen to have. Feel free to skip to the pictures section.
 ---
 
-I Buy 3D Printer. I print from 3d printer. I paint 3d models. Such is the life of a hobbyist.
-
-I like to print variety of things. 
-
-Anyways, here is what I have done, What I am in the process of doing, and what I have plans for.
+Insert Link to bottom of page.
 
 ## 1. Intro
 
