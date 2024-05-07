@@ -12,21 +12,23 @@ I like to print variety of things.
 
 Anyways, here is what I have done, What I am in the process of doing, and what I have plans for.
 
-## 1. The Next Project- The Rocinante
+## 1. Intro
 
-The expanse is a new show that I have begun to watch. I have seen a 3d model that includes 
+For me, diving into the realms of 3D printing and painting isn't just a hobby—it's a deeply fulfilling journey that infuses my creative process with boundless energy and inspiration. As an artist with a passion for both digital design and traditional artistry, I've discovered that these pursuits not only enrich my personal life but also positively impact my professional endeavors.
 
-A simple way to de-clutter your inbox is to look at each email you receive from a subscription and if it’s not immediately relevant (or will be in the foreseeable future), just scroll to the bottom and hit that unsubscribe button. Over time you’ll receive less and less irrelevant emails and this will naturally translate into less stress in the back of your mind.
+In the world of 3D printing, I find endless opportunities to explore innovative solutions and unleash my imagination. Each project is a canvas for creativity, where I blend technical precision with artistic flair to bring ideas to life. As I navigate the complexities of design and manufacturing, I'm constantly honing my problem-solving skills and pushing the boundaries of what's possible.
 
-And for those subscriptions and newsletters that you do want to keep, Unroll.me is a great tool I’ve used to manage the amount of content I see in my inbox. It allows you to wrap all relevant subscriptions into a daily newsletter that you see once and can tackle at your own leisure (it even allows you to unsubscribe directly from their platform!)
+Similarly, my love for painting allows me to tap into a different aspect of my creativity. With each brushstroke, I channel emotion and expression onto the canvas, creating pieces that resonate with depth and meaning. This hands-on approach to artistry not only serves as a source of personal fulfillment but also enhances my ability to think outside the box and approach challenges with a fresh perspective in my professional life.
 
-## 2. Unfollow people on social media
+What truly excites me is the synergy between these two passions. As a hobbyist, I seamlessly integrate 3D printing with painting, combining digital design with traditional craftsmanship to produce unique and captivating works of art. This cross-disciplinary approach not only fuels my creative drive but also fosters innovation and originality in my work.
 
-As you progress through school, jobs, projects, and whatever else you devote your time to, you tend to meet a lot of people who you may add on Facebook, follow on Instagram, but never develop a real relationship with. These acquaintances bloat your feeds and may cause you to miss out on important things that happen to those in your life who do matter.
+Beyond the studio, the skills and mindset cultivated through my artistic pursuits have a direct impact on my career. Whether it's problem-solving, adaptability, or attention to detail, the lessons learned from 3D printing and painting translate seamlessly into my professional endeavors. They serve as a reminder that creativity knows no bounds and that embracing the creative process can lead to meaningful breakthroughs in any field.
 
-What I have done is unfollow (or mute) the people that I don’t spend time with in person or plan to in the future. This includes brands, groups, events or influencers who I don’t feel are genuinely inspiring me. The beauty of this is that you are freeing up more time and mental space to interact with the content and people who you truly do want to invest in.
+In the end, my passion for 3D printing and painting isn't just a hobby—it's a catalyst for personal and professional growth. By infusing my work with creativity and imagination, I'm able to approach challenges with a sense of optimism and innovation, driving success and fulfillment in both my artistic pursuits and my career aspirations.
 
-If you don’t want to be dramatic but still want more manageable social media feeds, the mute feature does thankfully exist. This allows you to mute someone’s posts, stories, and other notifications without explicitly unfollowing them and not tarnishing your (probably nonexistent) relationship with them.
+## 2. Projects
+
+
 
 ## 3. Take occasional social media purges
 
