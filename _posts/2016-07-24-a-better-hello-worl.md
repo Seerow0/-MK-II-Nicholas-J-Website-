@@ -52,3 +52,32 @@ Apple and Google also fairly recently rolled out time management tools which all
 Minimalism isn’t a philosophy that demands you to sell everything you own, wear the same outfit for the rest of your life, and live out of your van. Rather, it’s taking a hard look at everything in your life and determining whether something truly provides happiness for you. Digital Minimalism is a subset of this way of thinking and is a philosophy that has allowed me to work in tech and be an active participant of social media, but also maintain my own level of free thinking and choose what I focus on.
 
 I hope this has helped at least one person out there better manage their digital engagement. When I was first starting my foray into this way of thinking, this documentary by Matt D'Avella really helped me understand what minimalism was all about and is something I’d recommend if you’d like to learn more!
+
+Exploring My Passion: 3D Printing Projects Inspired by TV Shows and Games
+
+Introduction:
+As a passionate hobbyist and enthusiast of both TV shows and video games, I've found a unique intersection of my interests through 3D printing. In this post, I'll take you through some of my recent projects where I've translated characters and elements from beloved TV shows and games into tangible, 3D-printed creations. Not only do these projects fuel my creativity, but they also showcase the innovative solutions that 3D printing offers in bringing fictional worlds to life.
+
+Project 1: Iconic Characters From TV Shows
+
+In this project, I delve into the rich universes of my favorite TV shows, capturing the essence of iconic characters through 3D printing. From the intricate armor of a medieval knight to the futuristic gadgets of a space-faring hero, each character is meticulously designed and brought to life with precision. Through the magic of 3D printing, I can replicate even the smallest details, from facial expressions to costume embellishments, ensuring that each model is a faithful representation of its on-screen counterpart.
+
+Project 2: Landscapes and Props From Video Games
+
+Drawing inspiration from immersive video game worlds, I embark on a journey to recreate landscapes and props that evoke a sense of nostalgia and wonder. Whether it's a sprawling fantasy kingdom or a post-apocalyptic wasteland, 3D printing allows me to sculpt intricate terrain and craft detailed props that capture the essence of these virtual realms. From iconic landmarks to everyday objects, each print serves as a tangible reminder of the immersive experiences found within video games.
+
+Creative Solutions: Leveraging the Power of 3D Printing
+
+Throughout these projects, I've encountered various challenges that 3D printing has helped me overcome, unlocking new levels of creativity and innovation along the way. Here are some key ways in which 3D printing has provided creative solutions:
+
+    Customization: 3D printing enables me to customize designs to suit my preferences, whether it's scaling a character to fit a specific display size or adding personalized touches to props and scenery.
+
+    Prototype Iteration: By rapidly prototyping ideas through 3D printing, I can quickly iterate and refine designs, ensuring that each model meets my vision before final production.
+
+    Complex Geometry: From intricate costumes to elaborate landscapes, 3D printing allows me to tackle complex geometries with ease, bringing even the most intricate designs to life with precision and accuracy.
+
+    Replication: Whether creating multiple copies of a character for a display or assembling a set of props for a themed event, 3D printing offers a cost-effective solution for replicating designs with consistent quality and detail.
+
+Conclusion:
+
+In the world of TV shows and video games, 3D printing serves as a powerful tool for bringing imagination to life. Through my projects, I've discovered endless opportunities to explore and create within these beloved fictional worlds, all while leveraging the innovative solutions that 3D printing provides. As I continue to embark on new projects, I look forward to pushing the boundaries of creativity and sharing my passion with fellow enthusiasts.
