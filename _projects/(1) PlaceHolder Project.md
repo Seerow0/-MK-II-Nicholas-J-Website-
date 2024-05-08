@@ -10,15 +10,18 @@ description: A series of virtual simulations that utilize the concepts and techn
 * TOC
 {:toc}
 
-# How I started
- Sigmund Freud was an inspiration and the concept of dreamlike realities. While I was limited to 4 months for creation and 1 month for setup, I beleive that the virtual simulations were a success and caught many user and audience attention for the capability of virtual technology and its evolution for society.On my senior year,I requested a VR toolkit in order to start my project. My prior years, I learned how to code and create scenes in Unity and assets in Maya and Mudbox. At first, my senior exhibition was going to be a unity 3d game but I wanted to do something more challenging. So I took this opportunity to learn VR and the process was very rewarding.
+# The Journey
 
-**The Results**
-I ended up with great advice from my advisors creating 3 virtual simulations with audio I created in a mixer program in the sound studio. I ended up getting a big room with 3 projectors setup to see the game at 3 different angles including the users. 
-# (Videos)
+My journey began with a deep-seated admiration for the insights of Sigmund Freud and the allure of crafting dreamlike experiences. Despite facing tight deadlines—a mere four months for creation and another month for setup—I stand by the assertion that our venture into virtual simulations was a resounding success, capturing the imaginations of countless users and audiences and shedding light on the promising trajectory of virtual technology for societal progress.
 
-**sgtsd**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MoJH7ynzV3I?si=Wz4onroNHGYSVXB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+In my final year, I advocated for access to a VR toolkit to kickstart my project. Drawing on years of experience, I had cultivated proficiency in coding, scene design in Unity, and asset creation using Maya and Mudbox. Though initially envisioning a Unity 3D game for my senior exhibition, I opted for a more challenging path. Embracing the opportunity to delve into VR, the journey proved immensely rewarding on a personal and professional level.
+
+# The Outcome:
+
+With invaluable guidance from mentors, we brought to life three distinct virtual simulations, enhanced by meticulously crafted audio compositions. Our showcase featured a spacious venue outfitted with three projectors, strategically positioned to offer varied perspectives—including that of the participants—culminating in an immersive and engaging experience for all.
+
+**Video**
+<iframe width="692" height="389" src="https://www.youtube.com/embed/79Wa_o1m5ZE" title="vr space documentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
