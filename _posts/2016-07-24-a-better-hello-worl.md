@@ -3,12 +3,12 @@ title: 3D Printing
 tags: [3D Model, FDM Printing, Technology]
 style: fill
 color: danger
-description: If you don't want to read this rant about a passion I happen to have. Feel free to skip to the pictures section.
+description: Where ingenuity comes to life
 ---
 
 Insert Link to bottom of page.
 
-## 1. Intro
+## Intro
 
 For me, diving into the realms of 3D printing and painting isn't just a hobby—it's a deeply fulfilling journey that infuses my creative process with boundless energy and inspiration. As an artist with a passion for both digital design and traditional artistry, I've discovered that these pursuits not only enrich my personal life but also positively impact my professional endeavors.
 
@@ -22,38 +22,8 @@ Beyond the studio, the skills and mindset cultivated through my artistic pursuit
 
 In the end, my passion for 3D printing and painting isn't just a hobby—it's a catalyst for personal and professional growth. By infusing my work with creativity and imagination, I'm able to approach challenges with a sense of optimism and innovation, driving success and fulfillment in both my artistic pursuits and my career aspirations.
 
-## 2. Projects
 
-
-
-## 3. Take occasional social media purges
-
-It’s no secret that social media messes with the reward circuitry in your brain. One of the best ways to see just how it works is to take a social media purge where you commit to not using it for a certain amount of time. I’ve been surprised at how reflexively I reach for my phone and even more surprised at the free time and mental clarity I have after a couple days of adjusting.
-
-In the past I’ve experimented with social media detoxes ranging from days to weeks and have found that the best strategy to avoid the temptation is to just delete the apps and not re-download until your purge is over. Most of the time you have an urge to check something, it’s simply a reflex and you won’t follow through since downloading the app again will take time and you will have caught yourself by then.
-
-Another strategy, courtesy of Kenton Prescott is to enact a recurring purge, where you keep your phone in airplane mode (or even Do Not Disturb) for some amount of hours a day, limiting the time you spend catching up on notifications. The idea is that everyone can wait a few hours for your attention, even in the case of emergencies.
-
-## 4. Turn off notifications for non-essential things
-
-This one is pretty simple, just turn off notifications for things that are not essential. Every time your phone or wearable buzzes, you’re losing precious mental bandwidth which can take up to 23 minutes to get back!
-
-In similar fashion to the previous steps, this takes some time and conscious effort daily where you take note of all notifications you get, evaluate if each one is worth the time, and turn off as necessary.
-
-## 5. Learn how to use built in tools
-
-One of my favorite features on my phone is Do Not Disturb. It allows you to silence all non-critical notifications for an indefinite amount of time. This is what I use when I’m working on school work, personal projects, or even this article. On both iOS and Android, you’re given fairly granular control over what is considered critical so you can pick and choose what is worth the focus lost from a distraction.
-
-{% include elements/figure.html image="https://cdn-images-1.medium.com/max/1000/0*MAeS-4fEc0Y7T4VB.jpg" caption="iOS" %}
-{% include elements/figure.html image="https://cdn-images-1.medium.com/max/1000/0*nF_H2-8oTY7C0a54.png" caption="Android" %}
-
-Apple and Google also fairly recently rolled out time management tools which allow the user to be restricted from certain applications after a given amount of use. This really helps to add an extra layer of discipline if you’re trying to build the habit of using your phone less.
-
-Minimalism isn’t a philosophy that demands you to sell everything you own, wear the same outfit for the rest of your life, and live out of your van. Rather, it’s taking a hard look at everything in your life and determining whether something truly provides happiness for you. Digital Minimalism is a subset of this way of thinking and is a philosophy that has allowed me to work in tech and be an active participant of social media, but also maintain my own level of free thinking and choose what I focus on.
-
-I hope this has helped at least one person out there better manage their digital engagement. When I was first starting my foray into this way of thinking, this documentary by Matt D'Avella really helped me understand what minimalism was all about and is something I’d recommend if you’d like to learn more!
-
-Exploring My Passion: 3D Printing Projects Inspired by TV Shows and Games
+## Exploring My Passion: 3D Printing Projects
 
 Introduction:
 As a passionate hobbyist and enthusiast of both TV shows and video games, I've found a unique intersection of my interests through 3D printing. In this post, I'll take you through some of my recent projects where I've translated characters and elements from beloved TV shows and games into tangible, 3D-printed creations. Not only do these projects fuel my creativity, but they also showcase the innovative solutions that 3D printing offers in bringing fictional worlds to life.
@@ -68,16 +38,16 @@ Drawing inspiration from immersive video game worlds, I embark on a journey to r
 
 Creative Solutions: Leveraging the Power of 3D Printing
 
-Throughout these projects, I've encountered various challenges that 3D printing has helped me overcome, unlocking new levels of creativity and innovation along the way. Here are some key ways in which 3D printing has provided creative solutions:
+Throughout these projects, I've encountered various challenges that 3D printing has helped me overcome, unlocking new levels of creativity and innovation along the way. Here are some key ways in which 3D printing has provided creative solutions
 
-    Customization: 3D printing enables me to customize designs to suit my preferences, whether it's scaling a character to fit a specific display size or adding personalized touches to props and scenery.
+Customization: 3D printing enables me to customize designs to suit my preferences, whether it's scaling a character to fit a specific display size or adding personalized touches to props and scenery.
 
-    Prototype Iteration: By rapidly prototyping ideas through 3D printing, I can quickly iterate and refine designs, ensuring that each model meets my vision before final production.
+Prototype Iteration: By rapidly prototyping ideas through 3D printing, I can quickly iterate and refine designs, ensuring that each model meets my vision before final production.
 
-    Complex Geometry: From intricate costumes to elaborate landscapes, 3D printing allows me to tackle complex geometries with ease, bringing even the most intricate designs to life with precision and accuracy.
+Complex Geometry: From intricate costumes to elaborate landscapes, 3D printing allows me to tackle complex geometries with ease, bringing even the most intricate designs to life with precision and accuracy.
 
-    Replication: Whether creating multiple copies of a character for a display or assembling a set of props for a themed event, 3D printing offers a cost-effective solution for replicating designs with consistent quality and detail.
+Replication: Whether creating multiple copies of a character for a display or assembling a set of props for a themed event, 3D printing offers a cost-effective solution for replicating designs with consistent quality and detail.
 
 Conclusion:
 
-In the world of TV shows and video games, 3D printing serves as a powerful tool for bringing imagination to life. Through my projects, I've discovered endless opportunities to explore and create within these beloved fictional worlds, all while leveraging the innovative solutions that 3D printing provides. As I continue to embark on new projects, I look forward to pushing the boundaries of creativity and sharing my passion with fellow enthusiasts.
+3D printing serves as a powerful tool for bringing imagination to life. Through my projects, I've discovered endless opportunities to explore and create within these beloved fictional worlds, all while leveraging the innovative solutions that 3D printing provides. As I continue to embark on new projects, I look forward to pushing the boundaries of creativity and sharing my passion with fellow enthusiasts.
