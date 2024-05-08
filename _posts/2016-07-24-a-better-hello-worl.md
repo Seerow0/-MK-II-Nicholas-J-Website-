@@ -5,6 +5,8 @@ style: fill
 color: danger
 description: Where ingenuity comes to life
 ---
+* TOC
+{:toc}
 
 Insert Link to bottom of page.
 
