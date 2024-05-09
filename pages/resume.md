@@ -5,7 +5,7 @@ weight: 6
 permalink: /resume/
 ---
 
-[Download Pdf](https://github.com/Seerow0/testing/blob/main/pdf/NicholasJ.pdf)
+[Download Pdf](https://github.com/Seerow0/testing/files/15266339/Nicholas_Jonathan_Resume.pdf)
 
 <!-- ![Illustrationdark](https://github.com/Seerow0/testing/assets/92154813/f93cd205-99a8-472c-a801-1d8f8360a57a) -->
 
