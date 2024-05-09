@@ -94,6 +94,8 @@ You can type in fa to locate the scripts in which you need to change what symbol
 
 `{% include elements/button.html link="websitelinkgoeshere" text="Button Text Goes Here" %}`
 
+drag pdf for resume into the actual page.md file to get direct link dummy
+
 -Creates a clickable linked button. See below image.
 
 ![image](https://github.com/Seerow0/testing/assets/92154813/0a8a5586-2223-4008-9087-502b530d7018)
