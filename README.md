@@ -109,5 +109,8 @@ Example:
 </p>
  it works on the projects when on the website, so idk why its not working here.
 
+comment out text
+`<! -- your comment -->`
+
 # Notes
 Make sure to change the logo landing page for when you bookmark it
