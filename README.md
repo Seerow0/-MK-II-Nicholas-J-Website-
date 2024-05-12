@@ -108,3 +108,6 @@ Example:
 {% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
 </p>
  it works on the projects when on the website, so idk why its not working here.
+
+# Notes
+Make sure to change the logo landing page for when you bookmark it
