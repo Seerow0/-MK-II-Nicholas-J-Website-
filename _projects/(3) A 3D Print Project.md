@@ -1,9 +1,9 @@
 ---
-name: 3D Projects
-tools: [Video, Maya, Unity3D]
+name: 3D Printing
+tools: [3D Printing, Tinkercad, Prusaslicer]
 image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/3d-gif.gif
 
-description: Games, Videos and 3d Projects
+description: 3D Printing and Painting
 ---
 
 Source: [yamomhouse](google.com)
