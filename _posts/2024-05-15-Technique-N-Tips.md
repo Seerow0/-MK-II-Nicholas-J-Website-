@@ -1,6 +1,6 @@
 ---
 title: Paint Potpourri
-tags: [Social Media, Minimalism, Technology]
+tags: [Paint, Tips, Lighting]
 style: fill
 color: success
 description: Mixing Ideas, Mixing Pigments
