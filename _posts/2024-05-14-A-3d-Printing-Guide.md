@@ -1,6 +1,6 @@
 ---
 title: 3D Printing
-tags: [3D Model, FDM Printing, Technology]
+tags: [3D Model, FDM Printing, Painting]
 style: fill
 color: danger
 description: Where ingenuity comes to life
