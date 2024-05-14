@@ -30,9 +30,11 @@ With invaluable guidance from mentors, we brought to life three distinct virtual
 
 ---
 # The future
+As an artist, I find solace in the limitless realm of concept art, where experimentation and creative inquiry are pushed beyond thier limits. While the future remains a mystery waiting to unfold, I'm deeply intrigued by the landscape of virtual reality and its rapidly evolving usage across industries. While I can't predict what lies ahead, I'm committed to staying informed and exploring the potential of VR as a medium for artistic expression. In this ever-changing landscape, I see endless opportunities to push the boundaries of my craft and immerse myself in new realms of creativity, wherever the journey may lead.
+
+# A sample of my last unity project testing dialouge boxes....
 <iframe width="674" height="379" src="https://www.youtube.com/embed/MoJH7ynzV3I?list=PLFYm4Qhfx-M1fSadbFODVUIeKXIPQRpPH" title="Working on now" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 <p class="text-center">
-{% include elements/button.html link="https://seerow0.github.io/testing/" text="Home" %}
+{% include elements/button.html link="https://seerow0.github.io/testing/projects/1-placeholder-project" text="Back To Top" %}
 </p>
