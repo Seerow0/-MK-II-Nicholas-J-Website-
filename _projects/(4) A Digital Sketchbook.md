@@ -1,6 +1,6 @@
 ---
 name: Sketchbook Project
-tools: [stuff.more stuff, extra stuff]
+tools: [Photoshop, Clip Studio, Sketch, Illustrator]
 image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/sketch-sponge.gif
 description: Art Sketchbook
 ---
