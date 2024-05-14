@@ -7,28 +7,20 @@ description: Art Sketchbook
 * TOC
 {:toc}
 
-# ‎ 
-
+# ‎Intro
+Beyond drawings, this sketchbook is a testament to exploration and experimentation. It's a playground where boundaries are pushed, where unconventional concepts take shape, and where mistakes are celebrated as valuable lessons in disguise.
 
  <!--<video src= "" controls="controls" style="max-width: 730px;"></video> -->
- 
-
-
-https://github.com/Seerow0/testing/assets/92154813/bef6f024-5fe0-4f1a-9bb8-b1b6865d6b8c
-
-
-
-
-
-# Sketches
-
-<p class="text-center">
+ <p class="text-center">
 {% include elements/button.html link="https://seerow0.github.io/testing/" text="Top" %}
 </p>
+ 
+# A Collection Of My Latest Concept Art
 
+ I embark on a personal journey of self-expression, constantly challenging myself to explore new techniques, styles, and ideas. Concept art isn't just a hobby or a profession; it's a way of life—a relentless pursuit of innovation and creativity that ignites.
 
 ---
 
-# The Future
+# 
 
 ---
