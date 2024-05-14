@@ -16,11 +16,11 @@ My journey began with a deep-seated admiration for the insights of Sigmund Freud
 
 In my final year of college, I advocated for access to a VR toolkit to kickstart my project. Drawing on years of experience, I had cultivated proficiency in coding, Unity 3D, and asset creation using Maya and Mudbox, and Blender. Although, I initially envisioned a simple Unity 3D game for my senior exhibition, I opted for a more challenging path. Embracing the opportunity to delve into VR, the journey proved immensely rewarding on a personal and professional level.
 
-# The Outcome:
+# The Outcome
 
 With invaluable guidance from mentors, we brought to life three distinct virtual simulations, enhanced by meticulously crafted audio compositions. Our showcase featured a spacious venue outfitted with three projectors, strategically positioned to offer varied perspectives—including that of the participants—culminating in an immersive and engaging experience for all. Please see below for a visual understanding of the project.
 
-**Video**
+**Video Documentation**
 <iframe width="692" height="389" src="https://www.youtube.com/embed/79Wa_o1m5ZE" title="vr space documentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -32,7 +32,9 @@ With invaluable guidance from mentors, we brought to life three distinct virtual
 # The future
 As an artist, I find solace in the limitless realm of concept art, where experimentation and creative inquiry are pushed beyond thier limits. While the future remains a mystery waiting to unfold, I'm deeply intrigued by the landscape of virtual reality and its rapidly evolving usage across industries. While I can't predict what lies ahead, I'm committed to staying informed and exploring the potential of VR as a medium for artistic expression. In this ever-changing landscape, I see endless opportunities to push the boundaries of my craft and immerse myself in new realms of creativity, wherever the journey may lead.
 
-# A sample of my last unity project testing dialouge boxes....
+# A sample....
+**The last project I did in Unity3d testing dialouge boxes using models from mixamo.**
+
 <iframe width="674" height="379" src="https://www.youtube.com/embed/MoJH7ynzV3I?list=PLFYm4Qhfx-M1fSadbFODVUIeKXIPQRpPH" title="Working on now" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p class="text-center">
