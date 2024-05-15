@@ -112,5 +112,6 @@ Example:
 comment out text
 `<!-- your comment -->`
 
-# Notes
+# Notes`
 Make sure to change the logo landing page for when you bookmark it
+`add a section for each project link or back to the projects page on each project, so its easier to navigate.`
