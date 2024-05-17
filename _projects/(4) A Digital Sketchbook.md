@@ -10,6 +10,10 @@ description: Art Sketchbook
 # ‎Intro
 Beyond drawings, this sketchbook is a testament to exploration and experimentation. It's a playground where boundaries are pushed, where unconventional concepts take shape, and where mistakes are celebrated as valuable lessons in disguise.
 
+
+https://github.com/Seerow0/testing/assets/92154813/89c448dc-66fb-4599-8365-fb6b12e7fb60
+
+
  <!--<video src= "" controls="controls" style="max-width: 730px;"></video> -->
  <p class="text-center">
 {% include elements/button.html link="https://seerow0.github.io/testing/" text="Top" %}
