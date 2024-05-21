@@ -14,15 +14,15 @@ Beyond drawings, this sketchbook is a testament to exploration and experimentati
 
  <!--<video src= "" controls="controls" style="max-width: 730px;"></video> -->
  <p class="text-center">
-{% include elements/button.html link="https://seerow0.github.io/testing/projects/" text="Previous Page" %}
-</p>
  
-# A Collection Of My Latest Concept Art
+# Somewhere In The Middle
 
- I embark on a personal journey of self-expression, constantly challenging myself to explore new techniques, styles, and ideas. Concept art isn't just a hobby or a profession; it's a way of life—a relentless pursuit of innovation and creativity that ignites.
-
+ I embark on a personal journey of self-expression, constantly challenging myself to explore new techniques, styles, and ideas. I am still learning and hope to surpass my expectations. It is important to understand and learn as an artist because insight is invaluable. We transfer what we see and what we cannot see using mediums as an interface.
+ Image goes here at the bottom
+ 
 ---
 
-# 
+# What Comes Next
 
 ---
+{% include elements/button.html link="https://seerow0.github.io/testing/projects/" text="Previous Page" %}</p>
