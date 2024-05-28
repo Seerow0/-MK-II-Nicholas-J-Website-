@@ -9,3 +9,7 @@ description: 3D Printing and Painting
 # My Collection So far
 
 ![bookshelf](https://raw.githubusercontent.com/Seerow0/testing/main/images/bookcase-3d-display.png)
+
+<p class="text-center">
+{% include elements/button.html link="https://seerow0.github.io/testing/projects/" text="Previous Page" %}
+</p>
