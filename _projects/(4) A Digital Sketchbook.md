@@ -15,6 +15,7 @@ Beyond drawings, this sketchbook is a testament to exploration and experimentati
  <!--<video src= "" controls="controls" style="max-width: 730px;"></video> -->
  <p class="text-center">
  
+
 # Somewhere In The Middle
 
  I embark on a personal journey of self-expression, constantly challenging myself to explore new techniques, styles, and ideas. I am still learning and hope to surpass my expectations. It is important to understand and learn as an artist because insight is invaluable. We transfer what we see and what we cannot see using mediums as an interface.
