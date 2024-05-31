@@ -29,4 +29,3 @@ Conclusion:
 3D printing serves as a powerful tool for bringing imagination to life. Through my projects, I've discovered endless opportunities to explore and create within these beloved fictional worlds, all while leveraging the innovative solutions that 3D printing provides. As I continue to embark on new projects, I look forward to pushing the boundaries of creativity and sharing my passion with fellow enthusiasts.
 
 {% include elements/button.html link="https://seerow0.github.io/testing/blog/" text="Previous Page" %}
-</p>
