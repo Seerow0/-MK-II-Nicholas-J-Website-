@@ -1,8 +1,8 @@
 ---
-name: Sketchbook Project
-tools: [Photoshop, Clip Studio, Sketch, Illustrator]
+name: Art And Design
+tools: [Photoshop, Clip Studio, Sketch, Illustrator, Digital Design]
 image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/sketch-sponge.gif
-description: Art Sketchbook
+description: A collection of work.
 ---
 * TOC
 {:toc}
