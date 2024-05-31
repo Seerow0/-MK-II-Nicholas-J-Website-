@@ -1,9 +1,9 @@
 ---
-name: Virtual Reality Project
+name: Virtual Reality
 tools: [Thesis,Unity3d, VR]
 image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/vr-southpark.gif
 
-description: A series of virtual simulations that utilize the concepts and techniques I learned through university.
+description: College Senior Exhibition: Learning Virtual Technology in under 5 months, a series of virtual simulations that utilize the concepts and techniques I learned through college. 
 ---
 
 <!-- to embed a video, first get the embed link from youtube and follow the formoat below, also edit this later to provide an exampple you lazybutt-->
