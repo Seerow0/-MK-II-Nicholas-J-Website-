@@ -19,7 +19,6 @@ Source: [Test Person](https://google.com/)
 -link and website references
 
 {% include elements/button.html link="https://seerow0.github.io/testing/blog/" text="Previous Page" %}
-</p>
 
 Example table for later use
 **example**
