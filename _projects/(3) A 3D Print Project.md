@@ -11,5 +11,5 @@ description: 3D Printing and Painting
 ![bookshelf](https://raw.githubusercontent.com/Seerow0/testing/main/images/bookcase-3d-display.png)
 
 <p class="text-center">
-{% include elements/button.html link="https://seerow0.github.io/testing/projects/" text="Previous Page" %}
+{% include elements/button.html link="https://nicholasjonathan.com/projects/" text="Previous Page" %}
 </p>
