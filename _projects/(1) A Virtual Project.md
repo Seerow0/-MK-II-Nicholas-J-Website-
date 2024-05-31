@@ -3,7 +3,7 @@ name: Virtual Reality
 tools: [Thesis,Unity3d, VR]
 image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/vr-southpark.gif
 
-description: College Senior Exhibition- Learning Virtual Technology in under 5 months, a series of virtual simulations that utilize the concepts and techniques I learned through college. 
+description: College Senior Exhibition 
 ---
 
 <!-- to embed a video, first get the embed link from youtube and follow the formoat below, also edit this later to provide an exampple you lazybutt-->
@@ -14,11 +14,11 @@ description: College Senior Exhibition- Learning Virtual Technology in under 5 m
 
 My journey began with a admiration for the insights of Sigmund Freud and the appeal of crafting dreamlike experiences. Despite facing tight deadlines— four months for creation and another month for setup—I stand by the fact that my venture into virtual reality was a success, capturing the imaginations of users and audiences. As a result, shedding light on the promising trajectory of virtual technology.
 
-In my final year of college, I advocated for access to a VR toolkit to kickstart my project. Drawing on years of experience, I had cultivated proficiency in coding, Unity 3D, and asset creation using Maya and Mudbox, and Blender. Although, I initially envisioned a small Unity 3D Project for my senior exhibition, I opted for a more challenging path. Embracing the opportunity to delve into VR, the journey proved immensely rewarding on a personal and professional level.
+In my final year, final semester of college, I advocated for access to a VR toolkit to kickstart my project. Drawing on years of experience, I had cultivated proficiency in coding, Unity 3D, and asset creation using Maya, Mudbox, and Blender. Although, I initially envisioned a small Unity 3D Project for my senior exhibition, I opted for a more challenging path. Embracing the opportunity to delve into VR, the journey proved immensely rewarding on a personal and professional level. 
 
 # The Results
 
-With invaluable guidance from mentors, we brought to life three distinct virtual simulations, enhanced by meticulously crafted audio compositions. Our showcase featured a spacious venue outfitted with three projectors, strategically positioned to offer varied perspectives—including that of the participants—culminating in an immersive and engaging experience for all. Please see below for a visual understanding of the project.
+With invaluable guidance from mentors and a 4 month strict deadline, we brought to life three distinct virtual simulations, enhanced by meticulously crafted audio compositions. Our showcase featured a spacious venue outfitted with three projectors, strategically positioned to offer varied perspectives—including that of the participants—culminating in an immersive and engaging experience for all. Please see below for a visual understanding of the project.
 
 **Video Documentation**
 <iframe width="692" height="389" src="https://www.youtube.com/embed/79Wa_o1m5ZE" title="vr space documentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
