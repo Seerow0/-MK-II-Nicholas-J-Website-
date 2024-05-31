@@ -1,7 +1,7 @@
 #### Site Settings ###
 title               : Nicholas Jonathan
 description         : >-                               # >- means to ignore newlines until "url:"
-                      "You are walking through a red forest..."
+                      "Welcome"
 
 baseurl             : "/testing"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : Seerow0/Seerow0.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
