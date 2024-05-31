@@ -1,18 +1,23 @@
 ---
-title: Note To Self
-tags: [Paint, Tips, Lighting]
+title: Nick's Art Hacks
+tags: [Useful, Tips, Methods]
 style: fill
 color: success
-description: Tips for myself for different hobbies all written down for easy access.
+description: An easy to access quick hack guide.
 ---
 
 Source: [Test Person](https://google.com/)
 
-**Add Tips for yourself**
+**Nick's Candid Art Hacks's Oeuvre**
 
+**Add Tips for yourself**
+-3d modeling painting tips
+-photoshop tips
+-unity3d tips
+-link and website references
 
 Example table for later use
-**Conditional Probability table for Wet Grass Node**
+**example**
 
 | ex1 | ex2  | ex3 | ex4|
 |-----------|-------|----------------| ---------------|
