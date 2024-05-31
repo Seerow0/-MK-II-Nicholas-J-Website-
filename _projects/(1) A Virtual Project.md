@@ -16,7 +16,7 @@ My journey began with a admiration for the insights of Sigmund Freud and the app
 
 In my final year of college, I advocated for access to a VR toolkit to kickstart my project. Drawing on years of experience, I had cultivated proficiency in coding, Unity 3D, and asset creation using Maya and Mudbox, and Blender. Although, I initially envisioned a small Unity 3D Project for my senior exhibition, I opted for a more challenging path. Embracing the opportunity to delve into VR, the journey proved immensely rewarding on a personal and professional level.
 
-# The Outcome
+# The Results
 
 With invaluable guidance from mentors, we brought to life three distinct virtual simulations, enhanced by meticulously crafted audio compositions. Our showcase featured a spacious venue outfitted with three projectors, strategically positioned to offer varied perspectives—including that of the participants—culminating in an immersive and engaging experience for all. Please see below for a visual understanding of the project.
 
@@ -29,14 +29,15 @@ With invaluable guidance from mentors, we brought to life three distinct virtual
 <iframe width="674" height="379" src="https://www.youtube.com/embed/S18DIzDl-dk?list=PLFYm4Qhfx-M1fSadbFODVUIeKXIPQRpPH" title="Sequence 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-# What Would I Do Differently?
+# What Would I Have Done Differently?
 To be perfectly candid, I would go back and only do one simulation. I was ambitious and wanted to create variety when I should have been focused on making one refined experience. I think of the three, only two came out well. The last one in my opinion was a fever dream at best with limited functionality. It really was just a testing ground to see what I could accomplish. When it comes down to it, time and inexperience (coding for VR) was my worst enemy. I could have had one longer simulation with more refined gameplay and interaction, however that I recall would have been unwise for the audience to observe rather than interact. By keeping them shorter, and offering variety, there was something for everyone. 
 
-# The future
+# What Lies Ahead?
 As an artist, I find solace in the limitless realm of conceptual art, where experimentation and creative inquiry are pushed beyond thier limits. While the future remains a mystery, I'm deeply intrigued by the landscape of virtual reality and its rapidly evolving usage across industries. While I can't predict what lies ahead, I'm committed to staying informed and exploring the potential of VR as a medium for artistic expression. In this ever-changing landscape, I see endless opportunities to push the boundaries of my craft and immerse myself in new realms of creativity, wherever the journey may lead.
 
-# An Experiment Off Topic....
-**Unity3d testing dialouge boxes using models from mixamo.**
+# The Latest Project (2021)
+**The video below shows the last project I completed in 2021**
+- With limited access to VR space and focuses on other projects, I have taken a break from Unity3D but I am excited for when I do return. Possibly in collaboration with other creators. Who knows?
 
 <iframe width="674" height="379" src="https://www.youtube.com/embed/MoJH7ynzV3I?list=PLFYm4Qhfx-M1fSadbFODVUIeKXIPQRpPH" title="Working on now" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
