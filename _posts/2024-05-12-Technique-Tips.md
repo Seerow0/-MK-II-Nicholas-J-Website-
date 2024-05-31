@@ -18,7 +18,7 @@ Source: [Test Person](https://google.com/)
 -unity3d tips
 -link and website references
 
-{% include elements/button.html link="https://seerow0.github.io/testing/blog/" text="Previous Page" %}
+{% include elements/button.html link="https://nicholasjonathan.com/blog/" text="Previous Page" %}
 
 Example table for later use
 **example**
