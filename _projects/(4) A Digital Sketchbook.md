@@ -23,4 +23,4 @@ Beyond drawings, this sketchbook is a testament to exploration and experimentati
 I will try to keep my site updated as much as I can. I think it is important to document work because in time you can see the progress you have made and reflect back on your growth.
 
 
-{% include elements/button.html link="https://seerow0.github.io/testing/projects/" text="Previous Page" %}
+{% include elements/button.html link="https://nicholasjonathan.com/projects/" text="Previous Page" %}
