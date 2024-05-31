@@ -7,15 +7,11 @@ description: Art Sketchbook
 * TOC
 {:toc}
 
-# ‎Intro
+## ‎Intro
 Beyond drawings, this sketchbook is a testament to exploration and experimentation. It's a playground where boundaries are pushed, where concepts take shape, and where mistakes are celebrated as valuable lessons in disguise. (Or something like that...)
 
 <video src= "https://github.com/Seerow0/testing/assets/92154813/30da6858-9609-4020-822c-5a27166f7d70" controls="controls" style="max-width: 730px;"></video>
-
  <!--<video src= "" controls="controls" style="max-width: 730px;"></video> -->
- <p class="text-center">
-
- 
 
 # Somewhere In The Middle
 
