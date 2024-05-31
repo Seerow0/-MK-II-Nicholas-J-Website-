@@ -15,16 +15,16 @@ Beyond drawings, this sketchbook is a testament to exploration and experimentati
  <!--<video src= "" controls="controls" style="max-width: 730px;"></video> -->
  <p class="text-center">
 
-  ---
+ 
 
 # Somewhere In The Middle
 
  I am constantly challenging myself to explore new techniques, styles, and ideas. I am still learning and hope to surpass my expectations. It is important to understand and learn as an artist because insight is invaluable. We transfer what we see and what we cannot see using mediums as an interface.
 
- ---
+
 
 # What Comes Next
 I will try to keep my site updated as much as I can. I think it is important to document work because in time you can see the progress you have made and reflect back on your growth.
 
----
-{% include elements/button.html link="https://seerow0.github.io/testing/projects/" text="Previous Page" %}</p>
+
+{% include elements/button.html link="https://seerow0.github.io/testing/projects/" text="Previous Page" %}
