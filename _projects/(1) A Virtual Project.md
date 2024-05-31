@@ -42,5 +42,5 @@ As an artist, I find solace in the limitless realm of conceptual art, where expe
 <iframe width="674" height="379" src="https://www.youtube.com/embed/MoJH7ynzV3I?list=PLFYm4Qhfx-M1fSadbFODVUIeKXIPQRpPH" title="Working on now" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p class="text-center">
-{% include elements/button.html link="https://seerow0.github.io/testing/projects/" text="Previous Page" %}
+{% include elements/button.html link="https://nicholasjonathan.com/projects/" text="Previous Page" %}
 </p>
