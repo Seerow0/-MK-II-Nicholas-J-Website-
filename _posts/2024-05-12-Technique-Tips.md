@@ -3,10 +3,12 @@ title: Nick's Art Hacks
 tags: [Useful, Tips, Methods]
 style: fill
 color: success
-description: An easy to access quick hack guide.
+description: (Work in progress) An easy to access quick hack guide.
 ---
 
 Source: [Test Person](https://google.com/)
+
+*(Work in progress)*
 
 **Nick's Candid Art Hacks's Oeuvre**
 
