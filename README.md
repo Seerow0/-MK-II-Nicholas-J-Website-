@@ -49,7 +49,7 @@ To Add Videos, -- `<video src= "" -- drag and drop onto the file and add --"cont
 
 # Fill and Color For Projects and Posts
 You'll notice on the blog page where the posts are diffrenitiated by color(excuse my spelling nick ol chap) (no worries nick thoughts ol' chap)
-You could edit the color values using the image below. color: primary / secondary / success / danger / warning / info / light / dark (choose one only)
+You could edit the color values using the image below. color: primary / secondary / success / danger / warning / info / light / dark
 ![image](https://github.com/Seerow0/-MK-II-Nicholas-J-Website-/assets/92154813/fbad3532-8838-4ab5-b818-c36a533d1bdb)
 
 
