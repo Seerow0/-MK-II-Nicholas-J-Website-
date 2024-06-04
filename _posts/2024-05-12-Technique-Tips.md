@@ -3,20 +3,19 @@ title: Nick's Art Hacks
 tags: [Useful, Tips, Methods]
 style: fill
 color: primary
-description: (Work in progress) An easy to access quick hack guide.
+description: An easy to access quick hack guide.
 ---
 
-Source: [Test Person](https://google.com/)
+**Nick's Art Hacks**
+What is this page you may ask. Well its a neat reference sheet for yours truly. However feel free to take a look.
 
-*(Work in progress)*
+Design
+---
 
-**Nick's Candid Art Hacks's Oeuvre**
-
-**Add Tips for yourself**
--3d modeling painting tips
--photoshop tips
--unity3d tips
--link and website references
+3D Printing
+---
+Software
+---
 
 {% include elements/button.html link="https://nicholasjonathan.com/blog/" text="Previous Page" %}
 
@@ -31,7 +30,7 @@ Example table for later use
 | Off       | True  | 0.8                           | 0.2  |
 | off       | False | 0.0                           | 1.0  |
 
-**Conditional Probability table for Sprinkler Node**
+**test example**
 
 | ex1    | ex2 | ex2 |
 |-------|-----------|--------------------|
@@ -39,7 +38,7 @@ Example table for later use
 | True  | 0.4                           | 0.6  |
 | False | 0.01                          | 0.99 |
 
-**Conditional Probability table for Rain Node**
+**test example 2**
 
 |    | ex |
 |-------|------|
