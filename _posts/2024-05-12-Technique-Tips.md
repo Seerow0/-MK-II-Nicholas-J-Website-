@@ -2,7 +2,7 @@
 title: Nick's Art Hacks
 tags: [Useful, Tips, Methods]
 style: fill
-color: success
+color: primary
 description: (Work in progress) An easy to access quick hack guide.
 ---
 
