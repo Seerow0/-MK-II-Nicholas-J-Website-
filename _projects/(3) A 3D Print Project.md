@@ -9,8 +9,7 @@ description: 3D Printing and Painting
 
 # My Collection
 
-https://github.com/Seerow0/-MK-II-Nicholas-J-Website-/assets/92154813/a94f77ef-5703-4f36-867d-780830f80d3e
-
+<video src= "https://github.com/Seerow0/-MK-II-Nicholas-J-Website-/assets/92154813/a94f77ef-5703-4f36-867d-780830f80d3e" controls="controls" style="max-width: 730px;"></video>
 
 
 <p class="text-center">
