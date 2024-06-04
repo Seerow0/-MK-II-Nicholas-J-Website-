@@ -2,7 +2,7 @@
 title: 3D Printing
 tags: [3D Model, FDM Printing, Painting]
 style: fill
-color: danger
+color: primary
 description: Where ingenuity comes to life
 ---
 * TOC
