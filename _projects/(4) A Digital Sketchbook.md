@@ -7,16 +7,12 @@ description: A collection of work.
 * TOC
 {:toc}
 
-## ‎Intro
-Beyond drawings, this sketchbook is a testament to exploration and experimentation. It's a playground where boundaries are pushed, where concepts take shape, and where mistakes are celebrated as valuable lessons in disguise. (Or something like that...)
+## 
+Art is a playground where boundaries are pushed, where concepts take shape, and where mistakes are celebrated as valuable lessons in disguise. I want to improve my skills and I will admit I have some ways to go. However, it will be a road that I will traverse depsite any obstacles that may come my way. It is hard to show one's work without opening yourself to criticisms. It is important to see your progress as you gain experience. There is a path to walk and we must make sure it is one we could be proud of. I am still learning and hope to surpass my expectations. In a book I read, it mentioned that to set goals is counterpruductive because we see it as the holy grail. Once obtained, we should feel vindicated or empowered, but the reality is fleeting and before you know it there is another goal around the corner that you may or may not get around to. So it is important to remind myself that I need to constantly challenge myself and be satisfied with every small improvement. Be that as it may, I still can't draw hands...yet. I look forward to these challenges as I continue my journey.
 
 <video src= "https://github.com/Seerow0/testing/assets/92154813/30da6858-9609-4020-822c-5a27166f7d70" controls="controls" style="max-width: 730px;"></video>
  <!--<video src= "" controls="controls" style="max-width: 730px;"></video> -->
-
-# Somewhere In The Middle
-
- I am constantly challenging myself to explore new techniques, styles, and ideas. I am still learning and hope to surpass my expectations. It is important to understand and learn as an artist because insight is invaluable. We transfer what we see and what we cannot see using mediums as an interface.
-
+![previews](https://github.com/Seerow0/-MK-II-Nicholas-J-Website-/assets/92154813/78790d44-07c1-450b-80e1-ae16c1b52b74)
 
 
 # What Comes Next
