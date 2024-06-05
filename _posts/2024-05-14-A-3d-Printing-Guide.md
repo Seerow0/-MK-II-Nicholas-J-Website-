@@ -21,7 +21,7 @@ In the world of 3D printing, I find endless opportunities to explore innovative 
 Introduction:
 As a passionate hobbyist and enthusiast of both TV shows and video games, I've found a unique intersection of my interests through 3D printing. In this post, I'll take you through some of my recent projects where I've translated characters and elements from beloved TV shows and games into tangible, 3D-printed creations. Not only do these projects fuel my creativity, but they also showcase the innovative solutions that 3D printing offers in bringing fictional worlds to life.
 
-WIP.....
+WIP..... alot of these nick you have screenshotted on your phone or written in notes. look for them.
 
 
 Conclusion:
