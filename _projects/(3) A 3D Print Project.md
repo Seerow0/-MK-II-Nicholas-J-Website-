@@ -5,6 +5,9 @@ image: https://raw.githubusercontent.com/Seerow0/testing/main/gifs/3d-gif.gif
 
 description: 3D Printing and Painting
 ---
+* TOC
+{:toc}
+
 # 3D Printing
 
 Imagine having a magic box that can turn your wildest ideas into real, tangible objects. That's essentially what 3D printing is all about. It's like having a mini factory right on your desk, where you can create anything you can imagine, layer by layer.
