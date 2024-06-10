@@ -8,17 +8,6 @@ description: Coding I have used in games, created new scripts and modified exist
 * TOC
 {:toc}
 
-            .----.
-  .---------. | == |
-  |.-"""""-.| |----|
-  ||       || | == |
-  ||       || |----|
-  |'-.....-'| |::::|
-  `"")---(""` |___.|
- /:::::::::::\" _  "
-/:::=======:::\`\`\
-`"""""""""""""`  '-'
-
 # Camera Collision (Modified)
 
 using System.Collections;
