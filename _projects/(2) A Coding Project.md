@@ -1,8 +1,8 @@
 ---
 name: Coding
 tools: [C#, Html, Markdown]
-image: 
-description: Coding I have used in games, created new scripts and modified existing scripts.
+image: https://raw.githubusercontent.com/Seerow0/-MK-II-Nicholas-J-Website-/main/gifs/code-frustration(2).gif
+description: Some general coding I have used in games, created new scripts and modified existing scripts.
 ---
 
 * TOC
@@ -186,7 +186,7 @@ public class DestroyByTime : MonoBehaviour
 
 ------------------
 
-# Mouse Orbit
+# Mouse Orbit (Modified)
 
 using UnityEngine;
 using System.Collections;
