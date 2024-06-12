@@ -97,6 +97,4 @@ Fused Deposition Modeling (FDM) 3D printing is a popular method for creating thr
    - **Chemical Smoothing**: Use chemicals like acetone for ABS prints to smooth surfaces and reduce layer lines. Always work in a well-ventilated area and follow safety precautions.
    - **Assembly and Finishing**: For multi-part models, ensure precise alignment and bonding using adhesives like super glue or epoxy. Touch up any visible seams or imperfections.
 
-By applying these tips and quick hacks in your respective fields, you can streamline your workflows, enhance your designs, and achieve better results. Whether you are working on digital illustrations, graphic layouts, user experiences, or 3D printed models, these insights will help you improve your skills and efficiency.
-
 {% include elements/button.html link="https://nicholasjonathan.com/blog/" text="Previous Page" %}
