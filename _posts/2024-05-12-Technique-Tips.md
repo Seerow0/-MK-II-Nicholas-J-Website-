@@ -1,5 +1,5 @@
 ---
-title: Nick's Art Hacks
+title: Quick Hacks
 tags: [Useful, Tips, Methods]
 style: fill
 color: primary
