@@ -3,7 +3,7 @@ title: Nick's Art Hacks
 tags: [Useful, Tips, Methods]
 style: fill
 color: primary
-description: An easy to access quick hack guide.
+description: Quick Hacks
 ---
 * TOC
 {:toc}
