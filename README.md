@@ -116,3 +116,27 @@ comment out text
 # Notes`
 Make sure to change the logo landing page for when you bookmark it
 `add a section for each project link or back to the projects page on each project, so its easier to navigate.`
+add this later graphs
+
+| ex1 | ex2  | ex3 | ex4|
+|-----------|-------|----------------| ---------------|
+|  |   | Yes                           | No   |
+| On        | True  | 0.99                          | 0.01 |
+| On        | False | 0.9                           | 0.1  |
+| Off       | True  | 0.8                           | 0.2  |
+| off       | False | 0.0                           | 1.0  |
+
+**test example**
+
+| ex1    | ex2 | ex2 |
+|-------|-----------|--------------------|
+|   | On                            | Off  |
+| True  | 0.4                           | 0.6  |
+| False | 0.01                          | 0.99 |
+
+**test example 2**
+
+|    | ex |
+|-------|------|
+| True  | 0.8  |
+| False | 0.2  |
