@@ -2,7 +2,7 @@
 name: Coding
 tools: [C#, Html, Markdown]
 image: https://raw.githubusercontent.com/Seerow0/-MK-II-Nicholas-J-Website-/main/gifs/code-frustration(2).gif
-description: Some general coding I have used in games. These are few example scripts I created in college for my usage in Unity 3D
+description: Unity Coding Scripts
 ---
 
 * TOC
