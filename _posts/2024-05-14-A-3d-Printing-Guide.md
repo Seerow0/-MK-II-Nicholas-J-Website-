@@ -10,22 +10,28 @@ description: Where ingenuity comes to life
 
 Insert Link to bottom of page.
 
-## 3D Mania
+# Exploring the World of 3D Printing
 
-For me, diving into the realms of 3D printing and painting isn't just a hobby—it's a deeply fulfilling journey that infuses my creative process with boundless energy and inspiration. As an artist with a passion for both digital design and traditional artistry, I've discovered that these pursuits not only enrich my personal life but also positively impact my professional endeavors.
+In recent years, 3D printing has transformed from a futuristic concept to a practical reality, revolutionizing various industries and hobbies. Among the myriad of technologies available, two popular methods stand out: Fused Deposition Modeling (FDM) and Resin Printing. Let's delve into these techniques and explore their differences.
 
-In the world of 3D printing, I find endless opportunities to explore innovative solutions and unleash my imagination. Each project is a canvas for creativity, where I blend technical precision with artistic flair to bring ideas to life. As I navigate the complexities of design and manufacturing, I'm constantly honing my problem-solving skills and pushing the boundaries of what's possible.
+# **Fused Deposition Modeling (FDM):**
 
-## Exploring My Passion: 3D Printing Projects
+FDM, also known as Fused Filament Fabrication (FFF), is one of the most widely used 3D printing methods. It operates by extruding thermoplastic filament layer by layer to create a three-dimensional object. This process begins with a digital model sliced into thin layers, which are then printed one atop the other.
 
-Introduction:
-As a passionate hobbyist and enthusiast of both TV shows and video games, I've found a unique intersection of my interests through 3D printing. In this post, I'll take you through some of my recent projects where I've translated characters and elements from beloved TV shows and games into tangible, 3D-printed creations. Not only do these projects fuel my creativity, but they also showcase the innovative solutions that 3D printing offers in bringing fictional worlds to life.
+# **Resin Printing:**
 
-WIP..... alot of these nick you have screenshotted on your phone or written in notes. look for them.
+In contrast, resin printing, or Stereolithography (SLA), employs a different approach. Instead of using filaments, resin printers use liquid photopolymers that harden when exposed to ultraviolet light. This results in incredibly detailed and smooth prints, making resin printing ideal for intricate designs and precise prototypes.
 
+# **Choosing the Right Method:**
 
-Conclusion:
+The choice between FDM and resin printing depends on your specific needs and preferences. FDM printers are more affordable and versatile, suitable for a wide range of applications. They are commonly used for rapid prototyping, functional parts, and hobbyist projects, like those undertaken by enthusiasts who print models found online or create their own designs.
 
-3D printing serves as a powerful tool for bringing imagination to life. Through my projects, I've discovered endless opportunities to explore and create within these beloved fictional worlds, all while leveraging the innovative solutions that 3D printing provides. As I continue to embark on new projects, I look forward to pushing the boundaries of creativity and sharing my passion with fellow enthusiasts.
+# **Personal Experience:**
+
+As an enthusiast myself, I predominantly use FDM printing for its accessibility and versatility. I enjoy exploring the vast array of models available online, printing anything from practical tools to whimsical sculptures. Additionally, I'm honing my skills in 3D modeling through platforms like Tinkercad and Blender3D, gradually transitioning from printing existing designs to creating my own.
+
+# **Conclusion:**
+
+As a hobbyist, 3D printing is not just a pastime but a passion—a journey of continuous learning and exploration. It's a realm where I challenge myself, create solutions for problem-solving, and most importantly, have fun. Understanding the nuances of different printing techniques empowers me to bring my ideas to life, whether I'm printing existing designs or creating my own. So, let's continue this exhilarating journey of creativity, innovation, and endless possibilities in the realm of 3D printing, as I explore and grow in this exciting field!
 
 {% include elements/button.html link="https://nicholasjonathan.com/blog/" text="Previous Page" %}
