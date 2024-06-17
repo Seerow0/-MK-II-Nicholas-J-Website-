@@ -1,9 +1,8 @@
 ---
 name: Miscellaneous
-tools: [Ect, Misc, Side Projects]
+tools: [Recreation, Leisure Pursuit, Side Projects]
 image: https://raw.githubusercontent.com/Seerow0/-MK-II-Nicholas-J-Website-/main/gifs/kermit.gif
-description: work in progress
----
+description: Work In Progress
 
 * TOC
 {:toc}
