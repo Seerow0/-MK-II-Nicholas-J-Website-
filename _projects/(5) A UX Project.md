@@ -9,3 +9,5 @@ description: Google Certificate/ In Progress
 {:toc}
 
 This page will be added in time while I complete my UX Certificate.
+
+{% include elements/button.html link="https://nicholasjonathan.com/projects/" text="Previous Page" %}
