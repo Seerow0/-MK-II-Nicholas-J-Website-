@@ -18,7 +18,11 @@ What's even better is the process itself. There's something incredibly satisfyin
 
 
 # What The Process Looks Like
-Insert Video Here
+ <video src= "https://github.com/Seerow0/-MK-II-Nicholas-J-Website-/assets/92154813/f2eff25c-16ce-44d7-87a6-02e413159e51" controls="controls" style="max-width: 730px;"></video>
+
+
+
+
 
 
 # Some Of My Own Work 
