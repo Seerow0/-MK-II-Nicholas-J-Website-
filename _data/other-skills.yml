@@ -1,4 +1,4 @@
-- name: Photoshop
+- name: Photoshop/Illustrator/
   percentage: 90
   color: success
 
@@ -13,4 +13,8 @@
 - name: Basic Excel/G-Sheets/Air Table
   percentage: 75
   color: info
+
+  - name: TinkerCad
+  percentage: 85
+  color: Primary
  
