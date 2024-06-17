@@ -8,7 +8,7 @@ description: A collection of work.
 {:toc}
 
 ## Introduction
-Art is a playground where boundaries are pushed, where concepts take shape, and where mistakes are celebrated as valuable lessons in disguise. I want to improve my skills and I will admit I have some ways to go. However, it will be a road that I will traverse depsite any obstacles that may come my way. It is hard to show one's work without opening yourself to criticisms. It is important to see your progress as you gain experience. There is a path to walk and we must make sure it is one we could be proud of. I am still learning and hope to surpass my expectations. In a book I read, it mentioned that to set goals is counterpruductive because we see it as the holy grail. Once obtained, we should feel vindicated or empowered, but the reality is fleeting and before you know it there is another goal around the corner that you may or may not get around to. So it is important to remind myself that I need to constantly challenge myself and be satisfied with every small improvement. Be that as it may, I still can't draw hands...yet. I look forward to these challenges as I continue my journey.
+Art is a playground where boundaries are pushed, where concepts take shape, and where mistakes are celebrated as valuable lessons in disguise. I want to improve my understanding and I will make the effort. It will be a road that I will traverse depsite any obstacles that may come my way. It is difficult to show work without opening yourself to criticisms. It is important note your progress. In a book I am reading, it mentions that setting large goals are ineffective because we make it into the the holy grail. Once we obtain it, we expect to feel  empowered, but the reality is often disappointing and before you know it there is another goal around the corner. Therefore it is important that I need to constantly challenge myself and be satisfied with every small improvement. By turning small goals into habbits, you essentially are creating an identity of the person you will be. There is a difference in what you want and what you will do. I look forward to these challenges as I continue my journey.
 
 <video src= "https://github.com/Seerow0/testing/assets/92154813/30da6858-9609-4020-822c-5a27166f7d70" controls="controls" style="max-width: 730px;"></video>
  <!--<video src= "" controls="controls" style="max-width: 730px;"></video> -->
@@ -16,7 +16,7 @@ Art is a playground where boundaries are pushed, where concepts take shape, and 
 
 
 # What Comes Next
-I will try to keep my site updated as much as I can. I think it is important to document work because in time you can see the progress you have made and reflect back on your growth.
+It is important to document work because in time you can see the progress you have made and reflect back on your growth. Therefore while I continue my career, I will document and update this site as needed. As for my work, it is constantly shifting and changing. I look forward to seeing how it grows and changes as I venture forward.
 
 
 {% include elements/button.html link="https://nicholasjonathan.com/projects/" text="Previous Page" %}
