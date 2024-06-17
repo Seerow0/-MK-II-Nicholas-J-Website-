@@ -16,7 +16,6 @@ Art is a playground where boundaries are pushed, where concepts take shape, and 
 
 
 # What Comes Next
-It is important to document work because in time you can see the progress you have made and reflect back on your growth. Therefore while I continue my career, I will document and update this site as needed. As for my work, it is constantly shifting and changing. I look forward to seeing how it grows and changes as I venture forward.
-
+It is important to document work because in time you can see the progress you have made and reflect back on your growth. Therefore while I continue my career, I will document and update this site as needed.
 
 {% include elements/button.html link="https://nicholasjonathan.com/projects/" text="Previous Page" %}
