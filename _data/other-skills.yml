@@ -14,7 +14,6 @@
   percentage: 75
   color: info
 
-  - name: TinkerCad
+- name: TinkerCad
   percentage: 85
   color: info
- 
