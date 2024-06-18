@@ -1,4 +1,4 @@
-- name: Photoshop/Illustrator/
+- name: Photoshop/Illustrator
   percentage: 90
   color: success
 
@@ -16,5 +16,5 @@
 
   - name: TinkerCad
   percentage: 85
-  color: Primary
+  color: primary
  
