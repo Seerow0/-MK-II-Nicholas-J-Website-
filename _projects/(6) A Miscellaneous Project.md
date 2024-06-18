@@ -13,3 +13,16 @@ This page is currently undergoing editing and therefore is unavailable.
 Note to Nick- You may want to add steam edits
 
 {% include elements/button.html link="https://nicholasjonathan.com/projects/" text="Previous Page" %}
+
+
+Under Construction
+
+I did not make the videos, simply cut them out and reanimated them frame by frame back in photoshop to use as steam profiles with my own edits...
+
+sources-
+
+![bg3steam](https://github.com/Seerow0/-MK-II-Nicholas-J-Website-/assets/92154813/c9141510-8447-49b4-9b8c-f76d30cccbdc)
+
+![aliensteam](https://github.com/Seerow0/-MK-II-Nicholas-J-Website-/assets/92154813/69cbf91a-b3ab-4f27-919a-e9008d61dbbd)
+
+![mhsteam](https://github.com/Seerow0/-MK-II-Nicholas-J-Website-/assets/92154813/2f71aeca-2f05-44a2-a217-ecba76632866)
