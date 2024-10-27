@@ -2,7 +2,7 @@
 name: Ux Design
 tools: [Figma, Storyboard, User Experience]
 image: https://raw.githubusercontent.com/Seerow0/-MK-II-Nicholas-J-Website-/main/gifs/user-ex.gif
-description: Google Certificate/ In Progress
+description: UX Certificate/UX-UI Projects
 ---
 
 * TOC
