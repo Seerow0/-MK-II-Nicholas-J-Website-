@@ -8,7 +8,7 @@ description: Google Certificate/ In Progress
 * TOC
 {:toc}
 
-**Remnant II UX Inventory**
+# Remnant II UX Inventory
 
 ![compressed](https://github.com/user-attachments/assets/d7f1cd3b-3140-449c-bfc9-c682ffec35e6)
 
