@@ -8,6 +8,9 @@ description: Google Certificate/ In Progress
 * TOC
 {:toc}
 
-This page will be added in time while I complete my UX Certificate.
+**Remnant II UX Inventory**
+
+![compressed](https://github.com/user-attachments/assets/d7f1cd3b-3140-449c-bfc9-c682ffec35e6)
+
 
 {% include elements/button.html link="https://nicholasjonathan.com/projects/" text="Previous Page" %}
