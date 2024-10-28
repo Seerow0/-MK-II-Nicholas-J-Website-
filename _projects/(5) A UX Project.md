@@ -10,7 +10,6 @@ description: UX Certificate/UX-UI Projects
 
 # Remnant II UX Inventory
 
-![compressed](https://github.com/user-attachments/assets/d7f1cd3b-3140-449c-bfc9-c682ffec35e6)
-
+![nicholas-min](https://github.com/user-attachments/assets/ad6c8e7c-7e65-443c-a4b7-8f9b774aedf6)
 
 {% include elements/button.html link="https://nicholasjonathan.com/projects/" text="Previous Page" %}
