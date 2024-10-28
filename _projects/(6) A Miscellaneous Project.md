@@ -1,5 +1,5 @@
 ---
-name: Miscellaneous
+name: Steam Artwork
 tools: [Recreation, Leisure Pursuit, Side Projects]
 image: https://raw.githubusercontent.com/Seerow0/-MK-II-Nicholas-J-Website-/main/gifs/1644511218136.gif
 description: Work In Progress
