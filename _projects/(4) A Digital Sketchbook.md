@@ -12,7 +12,7 @@ Art is a playground where boundaries are pushed, where concepts take shape, and 
 
 <video src= "https://github.com/Seerow0/testing/assets/92154813/30da6858-9609-4020-822c-5a27166f7d70" controls="controls" style="max-width: 730px;"></video>
  <!--<video src= "" controls="controls" style="max-width: 730px;"></video> -->
-![sb1](https://github.com/Seerow0/-MK-II-Nicholas-J-Website-/assets/92154813/9ad76309-dd61-4056-90ca-d97134caa938)
+![compportfolio(1)](https://github.com/user-attachments/assets/c820a0e2-dff1-4cf0-a638-c90a1eda2517)
 
 
 # What Comes Next
