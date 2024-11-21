@@ -24,7 +24,8 @@ What's even better is the process itself. There's something incredibly satisfyin
 
 # 3D Prints
 *I did not create/model most of these files, only printed them from online archives/3d modeling is part of the learning process for me*
-![3dp](https://github.com/Seerow0/-MK-II-Nicholas-J-Website-/assets/92154813/d57c46ec-1dbb-4e4d-b28a-25e9bffd427b)
+![3dp-min](https://github.com/user-attachments/assets/636704be-1fa1-4af4-a729-e784cf9af379)
+
  
 <p class="text-center">
 {% include elements/button.html link="https://nicholasjonathan.com/projects/" text="Previous Page" %}
