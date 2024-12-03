@@ -5,4 +5,5 @@ weight: 7
 permalink: /wordle/
 ---
 
-<a href="../wod/wod.html">Play the Wod Game</a>
+[Play the Wod Game](../wod/wod.html)
+
