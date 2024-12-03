@@ -7,8 +7,21 @@
     <link rel="stylesheet" href="wod.css">
 </head>
 <body>
-    <h1>Wod</h1>
-    <div id="wod-game"></div>
+    <h1>Wod Game</h1>
+    
+    <div id="wod-game">
+        <!-- Grid for guesses -->
+        <div id="grid"></div>
+
+        <!-- Alphabet at the bottom -->
+        <div id="alphabet">
+            <!-- Dynamically generated alphabet buttons -->
+        </div>
+
+        <!-- Wildcard Button -->
+        <button id="wildcardBtn" onclick="useWildcard()">Use Wildcard</button>
+    </div>
+
     <script src="wod.js"></script>
 </body>
 </html>
