@@ -140,3 +140,6 @@ add this later graphs
 |-------|------|
 | True  | 0.8  |
 | False | 0.2  |
+
+
+capitals matter in github pages.
