@@ -9,6 +9,7 @@ let usedLetters = new Set();
 document.addEventListener('DOMContentLoaded', () => {
     createGrid();
     createAlphabet();
+    addTypingCursor();
 });
 
 function createGrid() {
@@ -43,6 +44,7 @@ function handleGuess(button) {
     
     usedLetters.add(letter);
     updateAlphabet();
+    updateCurrentGuess(letter);
     checkGuess(letter);
 }
 
@@ -55,62 +57,57 @@ function updateAlphabet() {
     });
 }
 
-function checkGuess(letter) {
-    const result = [];
-    for (let i = 0; i < targetWord.length; i++) {
-        if (currentGuess[i] === letter) {
-            result.push('correct-position');
-        } else if (targetWord[i] === letter) {
-            result.push('correct');
-        } else {
-            result.push('incorrect');
+function updateCurrentGuess(letter) {
+    // Find the first empty slot in the current row
+    for (let i = 0; i < currentGuess.length; i++) {
+        if (currentGuess[i] === '') {
+            currentGuess[i] = letter;
+            break;
         }
     }
-    updateGrid(result);
+    updateGrid();
 }
 
-function updateGrid(result) {
+function updateGrid() {
     const row = document.querySelectorAll(`.tile[data-row="${currentRow}"]`);
-    result.forEach((status, i) => {
+    for (let i = 0; i < currentGuess.length; i++) {
         const tile = row[i];
-        tile.classList.add(status);
-        tile.innerText = currentGuess[i];
-    });
-    currentRow++;
-    if (currentRow === maxGuesses || currentGuess.join('') === targetWord.join('')) {
-        endGame();
+        tile.textContent = currentGuess[i];
+        tile.classList.remove('correct', 'correct-position', 'incorrect');
+        if (currentGuess[i] === targetWord[i]) {
+            tile.classList.add('correct-position');
+        } else if (targetWord.includes(currentGuess[i])) {
+            tile.classList.add('correct');
+        } else {
+            tile.classList.add('incorrect');
+        }
     }
-}
-
-function endGame() {
     if (currentGuess.join('') === targetWord.join('')) {
-        alert('You Win!');
-        playSound('special');
+        endGame(true);
+    } else if (currentRow === maxGuesses - 1) {
+        endGame(false);
     } else {
-        alert(`Game Over! The word was ${targetWord.join('')}`);
+        currentRow++;
+        currentGuess = ['', '', '', '', '', '', ''];
     }
 }
 
-function useWildcard() {
-    if (wildcardsUsed < maxWildcards) {
-        const hiddenIndexes = targetWord.map((letter, index) => currentGuess[index] === '' ? index : null).filter(index => index !== null);
-        const randomIndex = hiddenIndexes[Math.floor(Math.random() * hiddenIndexes.length)];
-        currentGuess[randomIndex] = targetWord[randomIndex];
-        wildcardsUsed++;
-        updateRow();
-        playSound('special');
-        document.getElementById('wildcardBtn').disabled = true;
+function endGame(won) {
+    if (won) {
+        alert('You win!');
     } else {
-        alert("Wildcard already used!");
+        alert(`Game over! The word was ${targetWord.join('')}`);
     }
 }
 
-function playSound(type) {
-    const sounds = {
-        correct: new Audio('chime.mp3'),
-        incorrect: new Audio('error.mp3'),
-        special: new Audio('special.mp3'),
-    };
-
-    sounds[type]?.play();
+function addTypingCursor() {
+    const tiles = document.querySelectorAll('.tile');
+    tiles.forEach(tile => {
+        tile.innerHTML = '';
+    });
+    
+    const cursorTile = document.querySelector(`.tile[data-row="${currentRow}"][data-col="${currentGuess.length}"]`);
+    const cursor = document.createElement('div');
+    cursor.classList.add('blinking-cursor');
+    cursorTile.appendChild(cursor);
 }
