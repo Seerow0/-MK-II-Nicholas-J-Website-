@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wordle
+title: Word Of The Day
 weight: 7
 permalink: /wordle/
 ---
