@@ -4,6 +4,4 @@ title: Word Of The Day
 weight: 7
 permalink: /wordle/
 ---
-
-[Play the Wod Game](../wod/wod.html)
-
+test in progress 12-4-24
